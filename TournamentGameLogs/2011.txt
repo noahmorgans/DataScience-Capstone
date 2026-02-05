@@ -1,0 +1,67 @@
+03/15/2011 UAB                     52 Clemson                 70 NP  Dayton, OH
+03/15/2011 NC Asheville            81 Arkansas Little Rock    77 1NP Dayton, OH
+03/16/2011 Virginia Commonwealth   59 Southern California     46 NP  Dayton, OH
+03/16/2011 Texas San Antonio       70 Alabama St.             61 NP  Dayton, OH
+03/17/2011 Morehead St.            62 Louisville              61 NP  Denver, CO
+03/17/2011 Richmond                69 Vanderbilt              66 NP  Denver, CO
+03/17/2011 Penn St.                64 Temple                  66 NP  Tucson, AZ
+03/17/2011 Northern Colorado       50 San Diego St.           68 NP  Tucson, AZ
+03/17/2011 Bucknell                52 Connecticut             81 NP  Washington, DC
+03/17/2011 Missouri                63 Cincinnati              78 NP  Washington, DC
+03/17/2011 Princeton               57 Kentucky                59 NP  Tampa, FL
+03/17/2011 Old Dominion            58 Butler                  60 NP  Washington, DC
+03/17/2011 UC Santa Barbara        51 Florida                 79 nP  Tampa, FL
+03/17/2011 Wofford                 66 Brigham Young           74 NP  Denver, CO
+03/17/2011 Belmont                 58 Wisconsin               72 NP  Tucson, AZ
+03/17/2011 Michigan St.            76 UCLA                    78 NP  Tampa, FL
+03/17/2011 Gonzaga                 86 St. John's              71 NP  Denver, CO
+03/17/2011 Utah St.                68 Kansas St.              73 NP  Tucson, AZ
+03/17/2011 Clemson                 76 West Virginia           84 NP  Tampa, FL
+03/17/2011 NC Asheville            51 Pittsburgh              74 NP  Washington, DC
+03/18/2011 Akron                   56 Notre Dame              69 nP  Chicago, IL
+03/18/2011 Florida St.             57 Texas A&M               50 NP  Chicago, IL
+03/18/2011 Boston University       53 Kansas                  72 NP  Tulsa, OK
+03/18/2011 St. Peter's             43 Purdue                  65 nP  Chicago, IL
+03/18/2011 Illinois                73 Nevada Las Vegas        62 NP  Tulsa, OK
+03/18/2011 Oakland                 81 Texas                   85 NP  Tulsa, OK
+03/18/2011 Tennessee               45 Michigan                75 NP  Charlotte, NC
+03/18/2011 Memphis                 75 Arizona                 77 NP  Tulsa, OK
+03/18/2011 Hampton                 45 Duke                    87 nP  Charlotte, NC
+03/18/2011 Villanova               57 George Mason            61 NP  Cleveland, OH
+03/18/2011 Long Island             87 North Carolina         102 nP  Charlotte, NC
+03/18/2011 Marquette               66 Xavier                  55 NP  Cleveland, OH
+03/18/2011 Georgia                 65 Washington              68 NP  Charlotte, NC
+03/18/2011 Indiana St.             60 Syracuse                77 NP  Cleveland, OH
+03/18/2011 Virginia Commonwealth   74 Georgetown              56 NP  Chicago, IL
+03/18/2011 Texas San Antonio       46 Ohio St.                75 nP  Cleveland, OH
+03/19/2011 Morehead St.            48 Richmond                65 NP  Denver, CO
+03/19/2011 Connecticut             69 Cincinnati              58 NP  Washington, DC
+03/19/2011 Temple                  64 San Diego St.           71 2NP Tucson, AZ
+03/19/2011 West Virginia           63 Kentucky                71 NP  Tampa, FL
+03/19/2011 Butler                  71 Pittsburgh              70 NP  Washington, DC
+03/19/2011 Brigham Young           89 Gonzaga                 67 NP  Denver, CO
+03/19/2011 UCLA                    65 Florida                 73 nP  Tampa, FL
+03/19/2011 Wisconsin               70 Kansas St.              65 NP  Tucson, AZ
+03/20/2011 Virginia Commonwealth   94 Purdue                  76 nP  Chicago, IL
+03/20/2011 Illinois                59 Kansas                  73 NP  Tulsa, OK
+03/20/2011 Florida St.             71 Notre Dame              57 nP  Chicago, IL
+03/20/2011 Arizona                 70 Texas                   69 NP  Tulsa, OK
+03/20/2011 Michigan                71 Duke                    73 nP  Charlotte, NC
+03/20/2011 Marquette               66 Syracuse                62 NP  Cleveland, OH
+03/20/2011 George Mason            66 Ohio St.                98 nP  Cleveland, OH
+03/20/2011 Washington              83 North Carolina          86 nP  Charlotte, NC
+03/24/2011 Connecticut             74 San Diego St.           67 nP  Anaheim, CA
+03/24/2011 Brigham Young           74 Florida                 83 1NP New Orleans, LA
+03/24/2011 Butler                  61 Wisconsin               54 NP  New Orleans, LA
+03/24/2011 Arizona                 93 Duke                    77 NP  Anaheim, CA
+03/25/2011 Virginia Commonwealth   72 Florida St.             71 1NP San Antonio, TX
+03/25/2011 Richmond                57 Kansas                  77 NP  San Antonio, TX
+03/25/2011 Marquette               63 North Carolina          81 NP  Newark, NJ
+03/25/2011 Kentucky                62 Ohio St.                60 NP  Newark, NJ
+03/26/2011 Florida                 71 Butler                  74 1NP New Orleans, LA
+03/26/2011 Arizona                 63 Connecticut             65 NP  Anaheim, CA
+03/27/2011 Kentucky                76 North Carolina          69 NP  Newark, NJ
+03/27/2011 Virginia Commonwealth   71 Kansas                  61 NP  San Antonio, TX
+04/02/2011 Kentucky                55 Connecticut             56 NP  Houston, TX
+04/02/2011 Virginia Commonwealth   62 Butler                  70 NP  Houston, TX
+04/04/2011 Butler                  41 Connecticut             53 NP  Houston, TX

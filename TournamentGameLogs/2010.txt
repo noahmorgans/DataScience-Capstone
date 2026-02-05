@@ -1,0 +1,64 @@
+03/16/2010 Winthrop                44 Arkansas Pine Bluff     61 NP  Dayton, OH
+03/18/2010 East Tennessee St.      71 Kentucky               100 NP  New Orleans, LA
+03/18/2010 Washington              80 Marquette               78 NP  San Jose, CA
+03/18/2010 Wake Forest             81 Texas                   80 1NP New Orleans, LA
+03/18/2010 Montana                 57 New Mexico              62 NP  San Jose, CA
+03/18/2010 Northern Iowa           69 Nevada Las Vegas        66 NP  Oklahoma City, OK
+03/18/2010 Ohio                    97 Georgetown              83 NP  Providence, RI
+03/18/2010 Lehigh                  74 Kansas                  90 NP  Oklahoma City, OK
+03/18/2010 San Diego St.           59 Tennessee               62 NP  Providence, RI
+03/18/2010 Old Dominion            51 Notre Dame              50 NP  New Orleans, LA
+03/18/2010 Robert Morris           70 Villanova               73 1NP Providence, RI
+03/18/2010 Sam Houston St.         59 Baylor                  68 NP  New Orleans, LA
+03/18/2010 St. Mary's              80 Richmond                71 NP  Providence, RI
+03/18/2010 Florida                 92 Brigham Young           99 2NP Oklahoma City, OK
+03/18/2010 Murray St.              66 Vanderbilt              65 NP  San Jose, CA
+03/18/2010 North Texas             62 Kansas St.              82 NP  Oklahoma City, OK
+03/18/2010 Texas El Paso           59 Butler                  77 NP  San Jose, CA
+03/19/2010 Morgan St.              50 West Virginia           77 NP  Buffalo, NY
+03/19/2010 Cornell                 78 Temple                  65 NP  Jacksonville, FL
+03/19/2010 Missouri                86 Clemson                 78 NP  Buffalo, NY
+03/19/2010 Wofford                 49 Wisconsin               53 NP  Jacksonville, FL
+03/19/2010 Georgia Tech            64 Oklahoma St.            59 NP  Milwaukee, WI
+03/19/2010 New Mexico St.          67 Michigan St.            70 NP  Spokane, WA
+03/19/2010 UC Santa Barbara        51 Ohio St.                68 NP  Milwaukee, WI
+03/19/2010 Houston                 77 Maryland                89 NP  Spokane, WA
+03/19/2010 Siena                   64 Purdue                  72 NP  Spokane, WA
+03/19/2010 Utah St.                53 Texas A&M               69 NP  Spokane, WA
+03/19/2010 Arkansas Pine Bluff     44 Duke                    73 NP  Jacksonville, FL
+03/19/2010 Louisville              62 California              77 NP  Jacksonville, FL
+03/19/2010 Minnesota               54 Xavier                  65 NP  Milwaukee, WI
+03/19/2010 Oakland                 66 Pittsburgh              89 NP  Milwaukee, WI
+03/19/2010 Florida St.             60 Gonzaga                 67 NP  Buffalo, NY
+03/19/2010 Vermont                 56 Syracuse                79 NP  Buffalo, NY
+03/20/2010 Washington              82 New Mexico              64 NP  San Jose, CA
+03/20/2010 Wake Forest             60 Kentucky                90 NP  New Orleans, LA
+03/20/2010 Ohio                    68 Tennessee               83 NP  Providence, RI
+03/20/2010 Northern Iowa           69 Kansas                  67 NP  Oklahoma City, OK
+03/20/2010 St. Mary's              75 Villanova               68 NP  Providence, RI
+03/20/2010 Old Dominion            68 Baylor                  76 NP  New Orleans, LA
+03/20/2010 Murray St.              52 Butler                  54 NP  San Jose, CA
+03/20/2010 Brigham Young           72 Kansas St.              84 NP  Oklahoma City, OK
+03/21/2010 Missouri                59 West Virginia           68 NP  Buffalo, NY
+03/21/2010 Cornell                 87 Wisconsin               69 NP  Jacksonville, FL
+03/21/2010 Georgia Tech            66 Ohio St.                75 NP  Milwaukee, WI
+03/21/2010 Michigan St.            85 Maryland                83 NP  Spokane, WA
+03/21/2010 Texas A&M               61 Purdue                  63 1NP Spokane, WA
+03/21/2010 California              53 Duke                    68 NP  Jacksonville, FL
+03/21/2010 Gonzaga                 65 Syracuse                87 NP  Buffalo, NY
+03/21/2010 Xavier                  71 Pittsburgh              68 NP  Milwaukee, WI
+03/25/2010 Washington              56 West Virginia           69 NP  Syracuse, NY
+03/25/2010 Cornell                 45 Kentucky                62 NP  Syracuse, NY
+03/25/2010 Butler                  63 Syracuse                59 NP  Salt Lake City, UT
+03/25/2010 Xavier                  96 Kansas St.             101 2NP Salt Lake City, UT
+03/26/2010 Tennessee               76 Ohio St.                73 NP  St. Louis, MO
+03/26/2010 Northern Iowa           52 Michigan St.            59 NP  St. Louis, MO
+03/26/2010 St. Mary's              49 Baylor                  72 NP  Houston, TX
+03/26/2010 Purdue                  57 Duke                    70 NP  Houston, TX
+03/27/2010 West Virginia           73 Kentucky                66 NP  Syracuse, NY
+03/27/2010 Butler                  63 Kansas St.              56 NP  Salt Lake City, UT
+03/28/2010 Michigan St.            70 Tennessee               69 NP  St. Louis, MO
+03/28/2010 Duke                    78 Baylor                  71 NP  Houston, TX
+04/03/2010 Butler                  52 Michigan St.            50 NP  Indianapolis, IN
+04/03/2010 West Virginia           57 Duke                    78 NP  Indianapolis, IN
+04/05/2010 Butler                  59 Duke                    61 NP  Indianapolis, IN

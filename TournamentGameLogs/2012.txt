@@ -1,0 +1,67 @@
+03/13/2012 Western Kentucky        59 Mississippi Valley St.  58 NP  Dayton, OH
+03/13/2012 Iona                    72 Brigham Young           78 NP  Dayton, OH
+03/14/2012 Lamar                   59 Vermont                 71 NP  Dayton, OH
+03/14/2012 South Florida           65 California              54 NP  Dayton, OH
+03/15/2012 Virginia Commonwealth   62 Wichita St.             59 NP  Portland, OR
+03/15/2012 South Dakota St.        60 Baylor                  68 NP  Albuquerque, NM
+03/15/2012 Connecticut             64 Iowa St.                77 NP  Louisville, KY
+03/15/2012 New Mexico St.          66 Indiana                 79 NP  Portland, OR
+03/15/2012 Colorado                68 Nevada Las Vegas        64 NP  Albuquerque, NM
+03/15/2012 Colorado St.            41 Murray St.              58 NP  Louisville, KY
+03/15/2012 Davidson                62 Louisville              69 NP  Portland, OR
+03/15/2012 Long Beach St.          68 New Mexico              75 NP  Portland, OR
+03/15/2012 Southern Mississippi    64 Kansas St.              70 NP  Pittsburgh, PA
+03/15/2012 Montana                 49 Wisconsin               73 NP  Albuquerque, NM
+03/15/2012 NC Asheville            65 Syracuse                72 NP  Pittsburgh, PA
+03/15/2012 Harvard                 70 Vanderbilt              79 NP  Albuquerque, NM
+03/15/2012 West Virginia           54 Gonzaga                 77 NP  Pittsburgh, PA
+03/15/2012 Loyola MD               59 Ohio St.                78 NP  Pittsburgh, PA
+03/15/2012 Western Kentucky        66 Kentucky                81 NP  Louisville, KY
+03/15/2012 Brigham Young           68 Marquette               88 NP  Louisville, KY
+03/16/2012 Lehigh                  75 Duke                    70 nP  Greensboro, NC
+03/16/2012 Alabama                 57 Creighton               58 NP  Greensboro, NC
+03/16/2012 Xavier                  67 Notre Dame              63 NP  Greensboro, NC
+03/16/2012 Virginia                45 Florida                 71 NP  Omaha, NE
+03/16/2012 Norfolk St.             86 Missouri                84 NP  Omaha, NE
+03/16/2012 St. Mary's              69 Purdue                  72 NP  Omaha, NE
+03/16/2012 Detroit                 50 Kansas                  65 NP  Omaha, NE
+03/16/2012 St. Louis               61 Memphis                 54 NP  Columbus, OH
+03/16/2012 Long Island             67 Michigan St.            89 NP  Columbus, OH
+03/16/2012 North Carolina St.      79 San Diego St.           65 NP  Columbus, OH
+03/16/2012 Belmont                 59 Georgetown              74 NP  Columbus, OH
+03/16/2012 Texas                   59 Cincinnati              65 NP  Nashville, TN
+03/16/2012 St. Bonaventure         63 Florida St.             66 NP  Nashville, TN
+03/16/2012 Ohio                    65 Michigan                60 NP  Nashville, TN
+03/16/2012 Vermont                 58 North Carolina          77 nP  Greensboro, NC
+03/16/2012 South Florida           58 Temple                  44 NP  Nashville, TN
+03/17/2012 Colorado                63 Baylor                  80 NP  Albuquerque, NM
+03/17/2012 Virginia Commonwealth   61 Indiana                 63 NP  Portland, OR
+03/17/2012 Iowa St.                71 Kentucky                87 nP  Louisville, KY
+03/17/2012 New Mexico              56 Louisville              59 NP  Portland, OR
+03/17/2012 Murray St.              53 Marquette               62 NP  Louisville, KY
+03/17/2012 Gonzaga                 66 Ohio St.                73 NP  Pittsburgh, PA
+03/17/2012 Kansas St.              59 Syracuse                75 NP  Pittsburgh, PA
+03/17/2012 Vanderbilt              57 Wisconsin               60 NP  Albuquerque, NM
+03/18/2012 Lehigh                  58 Xavier                  70 NP  Greensboro, NC
+03/18/2012 St. Louis               61 Michigan St.            65 NP  Columbus, OH
+03/18/2012 Norfolk St.             50 Florida                 84 NP  Omaha, NE
+03/18/2012 Cincinnati              62 Florida St.             56 NP  Nashville, TN
+03/18/2012 North Carolina St.      66 Georgetown              63 NP  Columbus, OH
+03/18/2012 Creighton               73 North Carolina          87 nP  Greensboro, NC
+03/18/2012 Ohio                    62 South Florida           56 NP  Nashville, TN
+03/18/2012 Purdue                  60 Kansas                  63 NP  Omaha, NE
+03/22/2012 Wisconsin               63 Syracuse                64 NP  Boston, MA
+03/22/2012 Florida                 68 Marquette               58 NP  Phoenix, AZ
+03/22/2012 Louisville              57 Michigan St.            44 NP  Phoenix, AZ
+03/22/2012 Cincinnati              66 Ohio St.                81 NP  Boston, MA
+03/23/2012 Indiana                 90 Kentucky               102 NP  Atlanta, GA
+03/23/2012 Xavier                  70 Baylor                  75 NP  Atlanta, GA
+03/23/2012 North Carolina St.      57 Kansas                  60 NP  St. Louis, MO
+03/23/2012 Ohio                    65 North Carolina          73 1NP St. Louis, MO
+03/24/2012 Ohio St.                77 Syracuse                70 NP  Boston, MA
+03/24/2012 Louisville              72 Florida                 68 NP  Phoenix, AZ
+03/25/2012 Kansas                  80 North Carolina          67 NP  St. Louis, MO
+03/25/2012 Baylor                  70 Kentucky                82 NP  Atlanta, GA
+03/31/2012 Ohio St.                62 Kansas                  64 NP  New Orleans, LA
+03/31/2012 Louisville              61 Kentucky                69 NP  New Orleans, LA
+04/02/2012 Kansas                  59 Kentucky                67 NP  New Orleans, LA
