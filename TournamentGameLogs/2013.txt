@@ -1,0 +1,67 @@
+03/19/2013 North Carolina A&T      73 Liberty                 72 NP  Dayton, OH
+03/19/2013 St. Mary's              67 Middle Tennessee        54 NP  Dayton, OH
+03/20/2013 Long Island             55 James Madison           68 NP  Dayton, OH
+03/20/2013 Boise St.               71 La Salle                80 NP  Dayton, OH
+03/21/2013 Akron                   42 Virginia Commonwealth   88 NP  Auburn Hills, MI
+03/21/2013 South Dakota St.        56 Michigan                71 NP  Auburn Hills, MI
+03/21/2013 Wichita St.             73 Pittsburgh              55 NP  Salt Lake City, UT
+03/21/2013 Belmont                 64 Arizona                 81 NP  Salt Lake City, UT
+03/21/2013 Southern                58 Gonzaga                 64 NP  Salt Lake City, UT
+03/21/2013 Harvard                 68 New Mexico              62 NP  Salt Lake City, UT
+03/21/2013 Bucknell                56 Butler                  68 NP  Lexington, KY
+03/21/2013 Davidson                58 Marquette               59 NP  Lexington, KY
+03/21/2013 Montana                 34 Syracuse                81 NP  San Jose, CA
+03/21/2013 California              64 Nevada Las Vegas        61 NP  San Jose, CA
+03/21/2013 Valparaiso              54 Michigan St.            65 NP  Auburn Hills, MI
+03/21/2013 Missouri                72 Colorado St.            84 NP  Lexington, KY
+03/21/2013 Oregon                  68 Oklahoma St.            55 NP  San Jose, CA
+03/21/2013 New Mexico St.          44 St. Louis               64 NP  San Jose, CA
+03/21/2013 St. Mary's              52 Memphis                 54 NP  Auburn Hills, MI
+03/21/2013 North Carolina A&T      48 Louisville              79 nP  Lexington, KY
+03/22/2013 Albany                  61 Duke                    73 NP  Philadelphia, PA
+03/22/2013 Oklahoma                55 San Diego St.           70 NP  Philadelphia, PA
+03/22/2013 Florida Gulf Coast      78 Georgetown              68 NP  Philadelphia, PA
+03/22/2013 Villanova               71 North Carolina          78 NP  Kansas City, MO
+03/22/2013 Minnesota               83 UCLA                    63 NP  Austin, TX
+03/22/2013 Northwestern St.        47 Florida                 79 NP  Austin, TX
+03/22/2013 Western Kentucky        57 Kansas                  64 nP  Kansas City, MO
+03/22/2013 Iona                    70 Ohio St.                95 NP  Dayton, OH
+03/22/2013 Iowa St.                76 Notre Dame              58 NP  Dayton, OH
+03/22/2013 Mississippi             57 Wisconsin               46 NP  Kansas City, MO
+03/22/2013 Temple                  76 North Carolina St.      72 NP  Dayton, OH
+03/22/2013 Colorado                49 Illinois                57 NP  Austin, TX
+03/22/2013 Pacific                 49 Miami FL                78 NP  Austin, TX
+03/22/2013 Cincinnati              63 Creighton               67 NP  Philadelphia, PA
+03/22/2013 La Salle                63 Kansas St.              61 NP  Kansas City, MO
+03/22/2013 James Madison           62 Indiana                 83 NP  Dayton, OH
+03/23/2013 Oregon                  74 St. Louis               57 NP  San Jose, CA
+03/23/2013 California              60 Syracuse                66 NP  San Jose, CA
+03/23/2013 Harvard                 51 Arizona                 74 NP  Salt Lake City, UT
+03/23/2013 Wichita St.             76 Gonzaga                 70 NP  Salt Lake City, UT
+03/23/2013 Virginia Commonwealth   53 Michigan                78 NP  Auburn Hills, MI
+03/23/2013 Butler                  72 Marquette               74 NP  Lexington, KY
+03/23/2013 Colorado St.            56 Louisville              82 nP  Lexington, KY
+03/23/2013 Memphis                 48 Michigan St.            70 NP  Auburn Hills, MI
+03/24/2013 La Salle                76 Mississippi             74 NP  Kansas City, MO
+03/24/2013 North Carolina          58 Kansas                  70 nP  Kansas City, MO
+03/24/2013 Creighton               50 Duke                    66 NP  Philadelphia, PA
+03/24/2013 Florida Gulf Coast      81 San Diego St.           71 NP  Philadelphia, PA
+03/24/2013 Iowa St.                75 Ohio St.                78 NP  Dayton, OH
+03/24/2013 Minnesota               64 Florida                 78 NP  Austin, TX
+03/24/2013 Temple                  52 Indiana                 58 NP  Dayton, OH
+03/24/2013 Illinois                59 Miami FL                63 NP  Austin, TX
+03/28/2013 La Salle                58 Wichita St.             72 NP  Los Angeles, CA
+03/28/2013 Arizona                 70 Ohio St.                73 NP  Los Angeles, CA
+03/28/2013 Syracuse                61 Indiana                 50 NP  Washington, DC
+03/28/2013 Marquette               71 Miami FL                61 NP  Washington, DC
+03/29/2013 Oregon                  69 Louisville              77 NP  Indianapolis, IN
+03/29/2013 Michigan St.            61 Duke                    71 NP  Indianapolis, IN
+03/29/2013 Michigan                87 Kansas                  85 1NP Arlington, TX
+03/29/2013 Florida Gulf Coast      50 Florida                 62 NP  Arlington, TX
+03/30/2013 Syracuse                55 Marquette               39 NP  Washington, DC
+03/30/2013 Ohio St.                66 Wichita St.             70 NP  Los Angeles, CA
+03/31/2013 Michigan                79 Florida                 59 NP  Arlington, TX
+03/31/2013 Duke                    63 Louisville              85 NP  Indianapolis, IN
+04/06/2013 Syracuse                56 Michigan                61 NP  Atlanta, GA
+04/06/2013 Wichita St.             68 Louisville              72 NP  Atlanta, GA
+04/08/2013 Michigan                76 Louisville              82 NP  Atlanta, GA

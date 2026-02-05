@@ -1,0 +1,67 @@
+03/18/2014 Albany                  71 Mount St. Mary's        64 NP  Dayton, OH
+03/18/2014 North Carolina St.      74 Xavier                  59 nP  Dayton, OH
+03/19/2014 Cal Poly                81 Texas Southern          69 NP  Dayton, OH
+03/19/2014 Iowa                    65 Tennessee               78 1NP Dayton, OH
+03/20/2014 Pittsburgh              77 Colorado                48 NP  Orlando, FL
+03/20/2014 Manhattan               64 Louisville              71 NP  Orlando, FL
+03/20/2014 Dayton                  60 Ohio St.                59 NP  Buffalo, NY
+03/20/2014 Western Michigan        53 Syracuse                77 NP  Buffalo, NY
+03/20/2014 Harvard                 61 Cincinnati              57 NP  Spokane, WA
+03/20/2014 Delaware                78 Michigan St.            93 NP  Spokane, WA
+03/20/2014 Saint Joseph's          81 Connecticut             89 1NP Buffalo, NY
+03/20/2014 Milwaukee               53 Villanova               73 NP  Buffalo, NY
+03/20/2014 North Dakota St.        80 Oklahoma                75 1NP Spokane, WA
+03/20/2014 New Mexico St.          69 San Diego St.           73 1NP Spokane, WA
+03/20/2014 BYU                     68 Oregon                  87 NP  Milwaukee, WI
+03/20/2014 American                35 Wisconsin               75 NP  Milwaukee, WI
+03/20/2014 Arizona St.             85 Texas                   87 NP  Milwaukee, WI
+03/20/2014 Wofford                 40 Michigan                57 NP  Milwaukee, WI
+03/20/2014 Albany                  55 Florida                 67 NP  Orlando, FL
+03/20/2014 North Carolina St.      80 Saint Louis             83 1NP Orlando, FL
+03/21/2014 Stephen F. Austin       77 VCU                     75 1NP San Diego, CA
+03/21/2014 Tulsa                   59 UCLA                    76 NP  San Diego, CA
+03/21/2014 Stanford                58 New Mexico              53 NP  St. Louis, MO
+03/21/2014 Eastern Kentucky        69 Kansas                  80 NP  St. Louis, MO
+03/21/2014 Coastal Carolina        59 Virginia                70 NP  Raleigh, NC
+03/21/2014 George Washington       66 Memphis                 71 NP  Raleigh, NC
+03/21/2014 Providence              77 North Carolina          79 NP  San Antonio, TX
+03/21/2014 North Carolina Central  75 Iowa St.                93 NP  San Antonio, TX
+03/21/2014 Weber St.               59 Arizona                 68 NP  San Diego, CA
+03/21/2014 Oklahoma St.            77 Gonzaga                 85 NP  San Diego, CA
+03/21/2014 Nebraska                60 Baylor                  74 NP  San Antonio, TX
+03/21/2014 Louisiana Lafayette     66 Creighton               76 NP  San Antonio, TX
+03/21/2014 Kansas St.              49 Kentucky                56 NP  St. Louis, MO
+03/21/2014 Mercer                  78 Duke                    71 nP  Raleigh, NC
+03/21/2014 Cal Poly                37 Wichita St.             64 NP  St. Louis, MO
+03/21/2014 Tennessee               86 Massachusetts           67 NP  Raleigh, NC
+03/22/2014 Dayton                  55 Syracuse                53 NP  Buffalo, NY
+03/22/2014 Oregon                  77 Wisconsin               85 NP  Milwaukee, WI
+03/22/2014 Pittsburgh              45 Florida                 61 NP  Orlando, FL
+03/22/2014 Harvard                 73 Michigan St.            80 NP  Spokane, WA
+03/22/2014 Connecticut             77 Villanova               65 NP  Buffalo, NY
+03/22/2014 Texas                   65 Michigan                79 NP  Milwaukee, WI
+03/22/2014 Saint Louis             51 Louisville              66 NP  Orlando, FL
+03/22/2014 North Dakota St.        44 San Diego St.           63 NP  Spokane, WA
+03/23/2014 Baylor                  85 Creighton               55 NP  San Antonio, TX
+03/23/2014 Mercer                  63 Tennessee               83 NP  Raleigh, NC
+03/23/2014 Stanford                60 Kansas                  57 NP  St. Louis, MO
+03/23/2014 Gonzaga                 61 Arizona                 84 NP  San Diego, CA
+03/23/2014 Memphis                 60 Virginia                78 NP  Raleigh, NC
+03/23/2014 Kentucky                78 Wichita St.             76 NP  St. Louis, MO
+03/23/2014 North Carolina          83 Iowa St.                85 NP  San Antonio, TX
+03/23/2014 Stephen F. Austin       60 UCLA                    77 NP  San Diego, CA
+03/27/2014 Dayton                  82 Stanford                72 NP  Memphis, TN
+03/27/2014 UCLA                    68 Florida                 79 NP  Memphis, TN
+03/27/2014 Baylor                  52 Wisconsin               69 NP  Anaheim, CA
+03/27/2014 San Diego St.           64 Arizona                 70 NP  Anaheim, CA
+03/28/2014 Kentucky                74 Louisville              69 NP  Indianapolis, IN
+03/28/2014 Connecticut             81 Iowa St.                76 NP  New York, NY
+03/28/2014 Tennessee               71 Michigan                73 NP  Indianapolis, IN
+03/28/2014 Michigan St.            61 Virginia                59 NP  New York, NY
+03/29/2014 Dayton                  52 Florida                 62 NP  Memphis, TN
+03/29/2014 Wisconsin               64 Arizona                 63 1NP Anaheim, CA
+03/30/2014 Connecticut             60 Michigan St.            54 NP  New York, NY
+03/30/2014 Kentucky                75 Michigan                72 NP  Indianapolis, IN
+04/05/2014 Connecticut             63 Florida                 53 NP  Arlington, TX
+04/05/2014 Kentucky                74 Wisconsin               73 NP  Arlington, TX
+04/07/2014 Kentucky                54 Connecticut             60 NP  Arlington, TX

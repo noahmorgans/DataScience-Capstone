@@ -1,0 +1,67 @@
+03/17/2015 Manhattan               64 Hampton                 74 NP  Dayton, OH
+03/17/2015 Mississippi             94 BYU                     90 NP  Dayton, OH
+03/18/2015 Boise St.               55 Dayton                  56 P  
+03/18/2015 Robert Morris           81 North Florida           77 NP  Dayton, OH
+03/19/2015 Eastern Washington      74 Georgetown              84 NP  Portland, OR
+03/19/2015 Georgia St.             57 Baylor                  56 NP  Jacksonville, FL
+03/19/2015 Harvard                 65 North Carolina          67 NP  Jacksonville, FL
+03/19/2015 Lafayette               52 Villanova               93 NP  Pittsburgh, PA
+03/19/2015 LSU                     65 North Carolina St.      66 NP  Pittsburgh, PA
+03/19/2015 Northeastern            65 Notre Dame              69 NP  Pittsburgh, PA
+03/19/2015 Ohio St.                75 VCU                     72 1NP Portland, OR
+03/19/2015 Purdue                  65 Cincinnati              66 1NP Louisville, KY
+03/19/2015 Stephen F. Austin       50 Utah                    57 NP  Portland, OR
+03/19/2015 Texas                   48 Butler                  56 NP  Pittsburgh, PA
+03/19/2015 Texas Southern          72 Arizona                 93 NP  Portland, OR
+03/19/2015 UAB                     60 Iowa St.                59 NP  Louisville, KY
+03/19/2015 UCLA                    60 SMU                     59 NP  Louisville, KY
+03/19/2015 Wofford                 53 Arkansas                56 NP  Jacksonville, FL
+03/19/2015 Hampton                 56 Kentucky                79 nP  Louisville, KY
+03/19/2015 Mississippi             57 Xavier                  76 NP  Jacksonville, FL
+03/20/2015 Albany                  60 Oklahoma                69 NP  Columbus, OH
+03/20/2015 Belmont                 67 Virginia                79 NP  Charlotte, NC
+03/20/2015 Buffalo                 62 West Virginia           68 NP  Columbus, OH
+03/20/2015 Coastal Carolina        72 Wisconsin               86 NP  Omaha, NE
+03/20/2015 Davidson                52 Iowa                    83 NP  Seattle, WA
+03/20/2015 Georgia                 63 Michigan St.            70 NP  Charlotte, NC
+03/20/2015 Indiana                 76 Wichita St.             81 NP  Omaha, NE
+03/20/2015 New Mexico St.          56 Kansas                  75 NP  Omaha, NE
+03/20/2015 North Dakota St.        76 Gonzaga                 86 NP  Seattle, WA
+03/20/2015 Oklahoma St.            73 Oregon                  79 NP  Omaha, NE
+03/20/2015 St. John's              64 San Diego St.           76 NP  Charlotte, NC
+03/20/2015 UC Irvine               55 Louisville              57 NP  Seattle, WA
+03/20/2015 Valparaiso              62 Maryland                65 NP  Columbus, OH
+03/20/2015 Wyoming                 54 Northern Iowa           71 NP  Seattle, WA
+03/20/2015 Robert Morris           56 Duke                    85 NP  Charlotte, NC
+03/20/2015 Dayton                  66 Providence              53 NP  Columbus, OH
+03/21/2015 Butler                  64 Notre Dame              67 1NP Pittsburgh, PA
+03/21/2015 UAB                     75 UCLA                    92 NP  Louisville, KY
+03/21/2015 Georgia St.             67 Xavier                  75 NP  Jacksonville, FL
+03/21/2015 Ohio St.                58 Arizona                 73 NP  Portland, OR
+03/21/2015 North Carolina St.      71 Villanova               68 NP  Pittsburgh, PA
+03/21/2015 Arkansas                78 North Carolina          87 NP  Jacksonville, FL
+03/21/2015 Cincinnati              51 Kentucky                64 NP  Louisville, KY
+03/21/2015 Utah                    75 Georgetown              64 NP  Portland, OR
+03/22/2015 Wichita St.             78 Kansas                  65 NP  Omaha, NE
+03/22/2015 Michigan St.            60 Virginia                54 NP  Charlotte, NC
+03/22/2015 Northern Iowa           53 Louisville              66 NP  Seattle, WA
+03/22/2015 West Virginia           69 Maryland                59 NP  Columbus, OH
+03/22/2015 Oregon                  65 Wisconsin               72 NP  Omaha, NE
+03/22/2015 Iowa                    68 Gonzaga                 87 NP  Seattle, WA
+03/22/2015 San Diego St.           49 Duke                    68 NP  Charlotte, NC
+03/22/2015 Dayton                  66 Oklahoma                72 NP  Columbus, OH
+03/26/2015 Xavier                  60 Arizona                 68 NP  Los Angeles, CA
+03/26/2015 Wichita St.             70 Notre Dame              81 NP  Cleveland, OH
+03/26/2015 North Carolina          72 Wisconsin               79 NP  Los Angeles, CA
+03/26/2015 West Virginia           39 Kentucky                78 NP  Cleveland, OH
+03/27/2015 Utah                    57 Duke                    63 NP  Houston, TX
+03/27/2015 Michigan St.            62 Oklahoma                58 NP  Syracuse, NY
+03/27/2015 UCLA                    62 Gonzaga                 74 NP  Houston, TX
+03/27/2015 North Carolina St.      65 Louisville              75 NP  Syracuse, NY
+03/28/2015 Notre Dame              66 Kentucky                68 NP  Cleveland, OH
+03/28/2015 Arizona                 78 Wisconsin               85 NP  Los Angeles, CA
+03/29/2015 Michigan St.            76 Louisville              70 1NP Syracuse, NY
+03/29/2015 Gonzaga                 52 Duke                    66 NP  Houston, TX
+04/04/2015 Wisconsin               71 Kentucky                64 NP  Indianapolis, IN
+04/04/2015 Michigan St.            61 Duke                    81 NP  Indianapolis, IN
+04/06/2015 Duke                    68 Wisconsin               63 NP  Indianapolis, IN
