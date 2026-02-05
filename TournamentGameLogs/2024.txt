@@ -1,0 +1,67 @@
+03/19/2024 Wagner                  71 Howard                  68 NP  Dayton, OH
+03/19/2024 Colorado St.            67 Virginia                42 NP  Dayton, OH
+03/20/2024 Colorado                60 Boise St.               53 NP  Dayton, OH
+03/20/2024 Grambling St.           88 Montana St.             81 1NP Dayton, OH
+03/21/2024 Long Beach St.          65 Arizona                 85 NP  Salt Lake City, UT
+03/21/2024 Duquesne                71 BYU                     67 NP  Omaha, NE
+03/21/2024 Akron                   60 Creighton               77 NP  Pittsburgh, PA
+03/21/2024 Nevada                  60 Dayton                  63 NP  Salt Lake City, UT
+03/21/2024 McNeese St.             65 Gonzaga                 86 NP  Salt Lake City, UT
+03/21/2024 Morehead St.            69 Illinois                85 NP  Omaha, NE
+03/21/2024 South Dakota St.        65 Iowa St.                82 NP  Omaha, NE
+03/21/2024 Samford                 89 Kansas                  93 NP  Salt Lake City, UT
+03/21/2024 Oakland                 80 Kentucky                76 NP  Pittsburgh, PA
+03/21/2024 Michigan St.            69 Mississippi St.         51 NP  Charlotte, NC
+03/21/2024 Wagner                  62 North Carolina          90 NP  Charlotte, NC
+03/21/2024 Oregon                  87 South Carolina          73 NP  Pittsburgh, PA
+03/21/2024 Saint Peter's           49 Tennessee               83 NP  Charlotte, NC
+03/21/2024 Colorado St.            44 Texas                   56 NP  Charlotte, NC
+03/21/2024 N.C. State              80 Texas Tech              67 NP  Pittsburgh, PA
+03/21/2024 Drake                   61 Washington St.          66 NP  Omaha, NE
+03/22/2024 Charleston              96 Alabama                109 NP  Spokane, WA
+03/22/2024 Yale                    78 Auburn                  76 NP  Spokane, WA
+03/22/2024 Colgate                 67 Baylor                  92 NP  Memphis, TN
+03/22/2024 New Mexico              56 Clemson                 77 NP  Memphis, TN
+03/22/2024 Stetson                 52 Connecticut             91 NP  Brooklyn, NY
+03/22/2024 Vermont                 47 Duke                    64 NP  Brooklyn, NY
+03/22/2024 Colorado               102 Florida                100 NP  Indianapolis, IN
+03/22/2024 Northwestern            77 Florida Atlantic        65 1NP Brooklyn, NY
+03/22/2024 Longwood                46 Houston                 86 NP  Memphis, TN
+03/22/2024 Western Kentucky        69 Marquette               87 NP  Indianapolis, IN
+03/22/2024 Texas A&M               98 Nebraska                83 NP  Memphis, TN
+03/22/2024 Grambling St.           50 Purdue                  78 NP  Indianapolis, IN
+03/22/2024 Grand Canyon            75 Saint Mary's            66 NP  Spokane, WA
+03/22/2024 UAB                     65 San Diego St.           69 NP  Spokane, WA
+03/22/2024 TCU                     72 Utah St.                88 NP  Indianapolis, IN
+03/22/2024 James Madison           72 Wisconsin               61 NP  Brooklyn, NY
+03/23/2024 Dayton                  68 Arizona                 78 NP  Salt Lake City, UT
+03/23/2024 Oregon                  73 Creighton               86 2NP Pittsburgh, PA
+03/23/2024 Duquesne                63 Illinois                89 NP  Omaha, NE
+03/23/2024 Washington St.          56 Iowa St.                67 NP  Omaha, NE
+03/23/2024 Gonzaga                 89 Kansas                  68 NP  Salt Lake City, UT
+03/23/2024 Oakland                 73 N.C. State              79 1NP Pittsburgh, PA
+03/23/2024 Michigan St.            69 North Carolina          85 NP  Charlotte, NC
+03/23/2024 Texas                   58 Tennessee               62 NP  Charlotte, NC
+03/24/2024 Grand Canyon            61 Alabama                 72 NP  Spokane, WA
+03/24/2024 Clemson                 72 Baylor                  64 NP  Memphis, TN
+03/24/2024 Northwestern            58 Connecticut             75 NP  Brooklyn, NY
+03/24/2024 James Madison           55 Duke                    93 NP  Brooklyn, NY
+03/24/2024 Texas A&M               95 Houston                100 1NP Memphis, TN
+03/24/2024 Colorado                77 Marquette               81 NP  Indianapolis, IN
+03/24/2024 Utah St.                67 Purdue                 106 NP  Indianapolis, IN
+03/24/2024 Yale                    57 San Diego St.           85 NP  Spokane, WA
+03/28/2024 Clemson                 77 Arizona                 72 NP  Los Angeles, CA
+03/28/2024 San Diego St.           52 Connecticut             82 NP  Boston, MA
+03/28/2024 Illinois                72 Iowa St.                69 NP  Boston, MA
+03/28/2024 Alabama                 89 North Carolina          87 NP  Los Angeles, CA
+03/29/2024 Duke                    54 Houston                 51 NP  Dallas, TX
+03/29/2024 N.C. State              67 Marquette               58 NP  Dallas, TX
+03/29/2024 Gonzaga                 68 Purdue                  80 NP  Detroit, MI
+03/29/2024 Creighton               75 Tennessee               82 NP  Detroit, MI
+03/30/2024 Clemson                 82 Alabama                 89 NP  Los Angeles, CA
+03/30/2024 Illinois                52 Connecticut             77 NP  Boston, MA
+03/31/2024 N.C. State              76 Duke                    64 NP  Dallas, TX
+03/31/2024 Tennessee               66 Purdue                  72 NP  Detroit, MI
+04/06/2024 Alabama                 72 Connecticut             86 NP  Glendale, AZ
+04/06/2024 N.C. State              50 Purdue                  63 NP  Glendale, AZ
+04/08/2024 Purdue                  60 Connecticut             75 NP  Glendale, AZ

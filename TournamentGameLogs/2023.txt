@@ -1,0 +1,67 @@
+03/14/2023 Pittsburgh              60 Mississippi St.         59 NP  Dayton, OH
+03/14/2023 Southeast Missouri St.  71 Texas A&M Corpus Chris  75 NP  Dayton, OH
+03/15/2023 Nevada                  73 Arizona St.             98 NP  Dayton, OH
+03/15/2023 Fairleigh Dickinson     84 Texas Southern          61 NP  Dayton, OH
+03/16/2023 Texas A&M Corpus Chris  75 Alabama                 96 NP  Birmingham, AL
+03/16/2023 Princeton               59 Arizona                 55 NP  Sacramento, CA
+03/16/2023 Illinois                63 Arkansas                73 NP  Des Moines, IA
+03/16/2023 Oral Roberts            51 Duke                    74 NP  Orlando, FL
+03/16/2023 Northern Kentucky       52 Houston                 63 NP  Birmingham, AL
+03/16/2023 Auburn                  83 Iowa                    75 NP  Birmingham, AL
+03/16/2023 Howard                  68 Kansas                  96 NP  Des Moines, IA
+03/16/2023 West Virginia           65 Maryland                67 NP  Birmingham, AL
+03/16/2023 Utah St.                65 Missouri                76 NP  Sacramento, CA
+03/16/2023 Boise St.               67 Northwestern            75 NP  Sacramento, CA
+03/16/2023 Charleston              57 San Diego St.           63 NP  Orlando, FL
+03/16/2023 Louisiana               55 Tennessee               58 NP  Orlando, FL
+03/16/2023 Colgate                 61 Texas                   81 NP  Des Moines, IA
+03/16/2023 Penn St.                76 Texas A&M               59 NP  Des Moines, IA
+03/16/2023 UNC Asheville           53 UCLA                    86 NP  Sacramento, CA
+03/16/2023 Furman                  68 Virginia                67 NP  Orlando, FL
+03/17/2023 UC Santa Barbara        56 Baylor                  74 NP  Denver, CO
+03/17/2023 Iona                    63 Connecticut             87 NP  Albany, NY
+03/17/2023 N.C. State              63 Creighton               72 NP  Denver, CO
+03/17/2023 Grand Canyon            70 Gonzaga                 82 NP  Denver, CO
+03/17/2023 Kent St.                60 Indiana                 71 NP  Albany, NY
+03/17/2023 Pittsburgh              59 Iowa St.                41 NP  Greensboro, NC
+03/17/2023 Montana St.             65 Kansas St.              77 NP  Greensboro, NC
+03/17/2023 Providence              53 Kentucky                61 NP  Greensboro, NC
+03/17/2023 Vermont                 61 Marquette               78 NP  Columbus, OH
+03/17/2023 Florida Atlantic        66 Memphis                 65 NP  Columbus, OH
+03/17/2023 Drake                   56 Miami FL                63 NP  Albany, NY
+03/17/2023 USC                     62 Michigan St.            72 NP  Columbus, OH
+03/17/2023 Fairleigh Dickinson     63 Purdue                  58 NP  Columbus, OH
+03/17/2023 VCU                     51 Saint Mary's            63 NP  Albany, NY
+03/17/2023 Arizona St.             70 TCU                     72 NP  Denver, CO
+03/17/2023 Kennesaw St.            67 Xavier                  72 NP  Greensboro, NC
+03/18/2023 Maryland                51 Alabama                 73 NP  Birmingham, AL
+03/18/2023 Auburn                  64 Houston                 81 NP  Birmingham, AL
+03/18/2023 Arkansas                72 Kansas                  71 NP  Des Moines, IA
+03/18/2023 Princeton               78 Missouri                63 NP  Sacramento, CA
+03/18/2023 Furman                  52 San Diego St.           75 NP  Orlando, FL
+03/18/2023 Duke                    52 Tennessee               65 NP  Orlando, FL
+03/18/2023 Penn St.                66 Texas                   71 NP  Des Moines, IA
+03/18/2023 Northwestern            63 UCLA                    68 NP  Sacramento, CA
+03/19/2023 Creighton               85 Baylor                  76 NP  Denver, CO
+03/19/2023 Saint Mary's            55 Connecticut             70 NP  Albany, NY
+03/19/2023 Fairleigh Dickinson     70 Florida Atlantic        78 NP  Columbus, OH
+03/19/2023 TCU                     81 Gonzaga                 84 NP  Denver, CO
+03/19/2023 Miami FL                85 Indiana                 69 NP  Albany, NY
+03/19/2023 Kentucky                69 Kansas St.              75 NP  Greensboro, NC
+03/19/2023 Michigan St.            69 Marquette               60 NP  Columbus, OH
+03/19/2023 Pittsburgh              73 Xavier                  84 NP  Greensboro, NC
+03/23/2023 Arkansas                65 Connecticut             88 NP  Las Vegas, NV
+03/23/2023 Michigan St.            93 Kansas St.              98 1NP New York, NY
+03/23/2023 Florida Atlantic        62 Tennessee               55 NP  New York, NY
+03/23/2023 Gonzaga                 79 UCLA                    76 NP  Las Vegas, NV
+03/24/2023 San Diego St.           71 Alabama                 64 NP  Louisville, KY
+03/24/2023 Princeton               75 Creighton               86 NP  Louisville, KY
+03/24/2023 Miami FL                89 Houston                 75 NP  Kansas City, MO
+03/24/2023 Xavier                  71 Texas                   83 NP  Kansas City, MO
+03/25/2023 Connecticut             82 Gonzaga                 54 NP  Las Vegas, NV
+03/25/2023 Florida Atlantic        79 Kansas St.              76 NP  New York, NY
+03/26/2023 Creighton               56 San Diego St.           57 NP  Louisville, KY
+03/26/2023 Miami FL                88 Texas                   81 NP  Kansas City, MO
+04/01/2023 Miami FL                59 Connecticut             72 NP  Houston, TX
+04/01/2023 Florida Atlantic        71 San Diego St.           72 NP  Houston, TX
+04/03/2023 San Diego St.           59 Connecticut             76 NP  Houston, TX
