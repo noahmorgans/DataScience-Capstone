@@ -1,0 +1,67 @@
+03/13/2018 Radford                 71 LIU Brooklyn            61 NP  Dayton, OH
+03/13/2018 UCLA                    58 St. Bonaventure         65 NP  Dayton, OH
+03/14/2018 Syracuse                60 Arizona St.             56 NP  Dayton, OH
+03/14/2018 Texas Southern          64 North Carolina Central  46 NP  Dayton, OH
+03/15/2018 Buffalo                 89 Arizona                 68 NP  Boise, ID
+03/15/2018 Iona                    67 Duke                    89 NP  Pittsburgh, PA
+03/15/2018 St. Bonaventure         62 Florida                 77 NP  Dallas, TX
+03/15/2018 UNC Greensboro          64 Gonzaga                 68 NP  Boise, ID
+03/15/2018 San Diego St.           65 Houston                 67 NP  Wichita, KS
+03/15/2018 Penn                    60 Kansas                  76 NP  Wichita, KS
+03/15/2018 Davidson                73 Kentucky                78 NP  Boise, ID
+03/15/2018 Loyola Chicago          64 Miami FL                62 NP  Dallas, TX
+03/15/2018 Montana                 47 Michigan                61 NP  Wichita, KS
+03/15/2018 South Dakota St.        73 Ohio St.                81 NP  Boise, ID
+03/15/2018 Oklahoma                78 Rhode Island            83 NP1 Pittsburgh, PA
+03/15/2018 North Carolina St.      83 Seton Hall              94 NP  Wichita, KS
+03/15/2018 Wright St.              47 Tennessee               73 NP  Dallas, TX
+03/15/2018 Stephen F. Austin       60 Texas Tech              70 NP  Dallas, TX
+03/15/2018 Radford                 61 Villanova               87 NP  Pittsburgh, PA
+03/15/2018 Alabama                 86 Virginia Tech           83 NP  Pittsburgh, PA
+03/16/2018 Butler                  79 Arkansas                62 NP  Detroit, MI
+03/16/2018 College of Charleston   58 Auburn                  62 NP  San Diego, CA
+03/16/2018 Georgia St.             53 Cincinnati              68 NP  Nashville, TN
+03/16/2018 New Mexico St.          68 Clemson                 79 NP  San Diego, CA
+03/16/2018 Kansas St.              69 Creighton               59 NP  Charlotte, NC
+03/16/2018 Bucknell                78 Michigan St.            82 NP  Detroit, MI
+03/16/2018 Florida St.             67 Missouri                54 NP  Nashville, TN
+03/16/2018 Texas                   83 Nevada                  87 NP1 Nashville, TN
+03/16/2018 Lipscomb                66 North Carolina          84 NP  Charlotte, NC
+03/16/2018 Cal St. Fullerton       48 Purdue                  74 NP  Detroit, MI
+03/16/2018 Syracuse                57 TCU                     52 NP  Detroit, MI
+03/16/2018 Providence              69 Texas A&M               73 NP  Charlotte, NC
+03/16/2018 UMBC                    74 Virginia                54 NP  Charlotte, NC
+03/16/2018 Murray St.              68 West Virginia           85 NP  San Diego, CA
+03/16/2018 Marshall                81 Wichita St.             75 NP  San Diego, CA
+03/16/2018 Texas Southern          83 Xavier                 102 NP  Nashville, TN
+03/17/2018 Rhode Island            62 Duke                    87 NP  Pittsburgh, PA
+03/17/2018 Ohio St.                84 Gonzaga                 90 NP  Boise, ID
+03/17/2018 Seton Hall              79 Kansas                  83 NP  Wichita, KS
+03/17/2018 Buffalo                 75 Kentucky                95 NP  Boise, ID
+03/17/2018 Houston                 63 Michigan                64 NP  Wichita, KS
+03/17/2018 Loyola Chicago          63 Tennessee               62 NP  Dallas, TX
+03/17/2018 Florida                 66 Texas Tech              69 NP  Dallas, TX
+03/17/2018 Alabama                 58 Villanova               81 NP  Pittsburgh, PA
+03/18/2018 Clemson                 84 Auburn                  53 NP  San Diego, CA
+03/18/2018 Nevada                  75 Cincinnati              73 NP  Nashville, TN
+03/18/2018 UMBC                    43 Kansas St.              50 NP  Charlotte, NC
+03/18/2018 Syracuse                55 Michigan St.            53 NP  Detroit, MI
+03/18/2018 Texas A&M               86 North Carolina          65 NP  Charlotte, NC
+03/18/2018 Butler                  73 Purdue                  76 NP  Detroit, MI
+03/18/2018 Marshall                71 West Virginia           94 NP  San Diego, CA
+03/18/2018 Florida St.             75 Xavier                  70 NP  Nashville, TN
+03/22/2018 Florida St.             75 Gonzaga                 60 NP  Los Angeles, CA
+03/22/2018 Kansas St.              61 Kentucky                58 NP  Atlanta, GA
+03/22/2018 Texas A&M               72 Michigan                99 NP  Los Angeles, CA
+03/22/2018 Loyola Chicago          69 Nevada                  68 NP  Atlanta, GA
+03/23/2018 Syracuse                65 Duke                    69 NP  Omaha, NE
+03/23/2018 Clemson                 76 Kansas                  80 NP  Omaha, NE
+03/23/2018 Texas Tech              78 Purdue                  65 NP  Boston, MA
+03/23/2018 West Virginia           78 Villanova               90 NP  Boston, MA
+03/24/2018 Loyola Chicago          78 Kansas St.              62 NP  Atlanta, GA
+03/24/2018 Florida St.             54 Michigan                58 NP  Los Angeles, CA
+03/25/2018 Duke                    81 Kansas                  85 NP1 Omaha, NE
+03/25/2018 Texas Tech              59 Villanova               71 NP  Boston, MA
+03/31/2018 Villanova               95 Kansas                  79 NP  San Antonio, TX
+03/31/2018 Loyola Chicago          57 Michigan                69 NP  San Antonio, TX
+04/02/2018 Michigan                62 Villanova               79 NP  San Antonio, TX

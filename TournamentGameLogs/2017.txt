@@ -1,0 +1,67 @@
+03/14/2017 Wake Forest             88 Kansas St.              95 NP  Dayton, OH
+03/14/2017 New Orleans             66 Mount St. Mary's        67 NP  Dayton, OH
+03/15/2017 USC                     75 Providence              71 NP  Dayton, OH
+03/15/2017 North Carolina Central  63 UC Davis                67 NP  Dayton, OH
+03/16/2017 North Dakota            82 Arizona                100 NP  Salt Lake City, UT
+03/16/2017 Winthrop                64 Butler                  76 NP  Milwaukee, WI
+03/16/2017 East Tennessee St.      65 Florida                 80 NP  Orlando, FL
+03/16/2017 Florida Gulf Coast      80 Florida St.             86 NP  Orlando, FL
+03/16/2017 South Dakota St.        46 Gonzaga                 66 NP  Salt Lake City, UT
+03/16/2017 Nevada                  73 Iowa St.                84 NP  Milwaukee, WI
+03/16/2017 Xavier                  76 Maryland                65 NP  Orlando, FL
+03/16/2017 Middle Tennessee        81 Minnesota               72 NP  Milwaukee, WI
+03/16/2017 Vanderbilt              66 Northwestern            68 NP  Salt Lake City, UT
+03/16/2017 Princeton               58 Notre Dame              60 NP  Buffalo, NY
+03/16/2017 Vermont                 70 Purdue                  80 NP  Milwaukee, WI
+03/16/2017 VCU                     77 Saint Mary's            85 NP  Salt Lake City, UT
+03/16/2017 Mount St. Mary's        56 Villanova               76 NP  Buffalo, NY
+03/16/2017 UNC Wilmington          71 Virginia                76 NP  Orlando, FL
+03/16/2017 Bucknell                80 West Virginia           86 NP  Buffalo, NY
+03/16/2017 Virginia Tech           74 Wisconsin               84 NP  Buffalo, NY
+03/17/2017 Seton Hall              71 Arkansas                77 NP  Greenville, SC
+03/17/2017 New Mexico St.          73 Baylor                  91 NP  Tulsa, OK
+03/17/2017 Kansas St.              61 Cincinnati              75 NP  Sacramento, CA
+03/17/2017 Rhode Island            84 Creighton               72 NP  Sacramento, CA
+03/17/2017 Wichita St.             64 Dayton                  58 NP  Indianapolis, IN
+03/17/2017 Troy                    65 Duke                    87 NP  Greenville, SC
+03/17/2017 UC Davis                62 Kansas                 100 NP  Tulsa, OK
+03/17/2017 Northern Kentucky       70 Kentucky                79 NP  Indianapolis, IN
+03/17/2017 Jacksonville St.        63 Louisville              78 NP  Indianapolis, IN
+03/17/2017 Michigan St.            78 Miami FL                58 NP  Tulsa, OK
+03/17/2017 Oklahoma St.            91 Michigan                92 NP  Indianapolis, IN
+03/17/2017 Texas Southern          64 North Carolina         103 NP  Greenville, SC
+03/17/2017 Iona                    77 Oregon                  93 NP  Sacramento, CA
+03/17/2017 USC                     66 SMU                     65 NP  Tulsa, OK
+03/17/2017 Marquette               73 South Carolina          93 NP  Greenville, SC
+03/17/2017 Kent St.                80 UCLA                    97 NP  Sacramento, CA
+03/18/2017 Saint Mary's            60 Arizona                 69 NP  Salt Lake City, UT
+03/18/2017 Middle Tennessee        65 Butler                  74 NP  Milwaukee, WI
+03/18/2017 Virginia                39 Florida                 65 NP  Orlando, FL
+03/18/2017 Xavier                  91 Florida St.             66 NP  Orlando, FL
+03/18/2017 Northwestern            73 Gonzaga                 79 NP  Salt Lake City, UT
+03/18/2017 Iowa St.                76 Purdue                  80 NP  Milwaukee, WI
+03/18/2017 Wisconsin               65 Villanova               62 NP  Buffalo, NY
+03/18/2017 Notre Dame              71 West Virginia           83 NP  Buffalo, NY
+03/19/2017 USC                     78 Baylor                  82 NP  Tulsa, OK
+03/19/2017 South Carolina          88 Duke                    81 NP  Greenville, SC
+03/19/2017 Michigan St.            70 Kansas                  90 NP  Tulsa, OK
+03/19/2017 Wichita St.             62 Kentucky                65 NP  Indianapolis, IN
+03/19/2017 Michigan                73 Louisville              69 NP  Indianapolis, IN
+03/19/2017 Arkansas                65 North Carolina          72 NP  Greenville, SC
+03/19/2017 Rhode Island            72 Oregon                  75 NP  Sacramento, CA
+03/19/2017 Cincinnati              67 UCLA                    79 NP  Sacramento, CA
+03/23/2017 Xavier                  73 Arizona                 71 NP  San Jose, CA
+03/23/2017 West Virginia           58 Gonzaga                 61 NP  San Jose, CA
+03/23/2017 Purdue                  66 Kansas                  98 nP  Kansas City, MO
+03/23/2017 Michigan                68 Oregon                  69 NP  Kansas City, MO
+03/24/2017 South Carolina          70 Baylor                  50 NP  New York, NY
+03/24/2017 Wisconsin               83 Florida                 84 NP1 New York, NY
+03/24/2017 UCLA                    75 Kentucky                86 NP  Memphis, TN
+03/24/2017 Butler                  80 North Carolina          92 NP  Memphis, TN
+03/25/2017 Xavier                  59 Gonzaga                 83 NP  San Jose, CA
+03/25/2017 Oregon                  74 Kansas                  60 nP  Kansas City, MO
+03/26/2017 South Carolina          77 Florida                 70 NP  New York, NY
+03/26/2017 Kentucky                73 North Carolina          75 NP  Memphis, TN
+04/01/2017 South Carolina          73 Gonzaga                 77 NP  Glendale, AZ
+04/01/2017 Oregon                  76 North Carolina          77 NP  Glendale, AZ
+04/03/2017 Gonzaga                 65 North Carolina          71 NP  Glendale, AZ

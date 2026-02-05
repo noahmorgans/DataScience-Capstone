@@ -1,0 +1,67 @@
+03/15/2016 Florida Gulf Coast      96 Fairleigh Dickinson     65 NP  Dayton, OH
+03/15/2016 Wichita St.             70 Vanderbilt              50 NP  Dayton, OH
+03/16/2016 Holy Cross              59 Southern                55 NP  Dayton, OH
+03/16/2016 Tulsa                   62 Michigan                67 NP  Dayton, OH
+03/17/2016 Yale                    79 Baylor                  75 NP  Providence, RI
+03/17/2016 Connecticut             74 Colorado                67 NP  Des Moines, IA
+03/17/2016 UNC Wilmington          85 Duke                    93 NP  Providence, RI
+03/17/2016 Chattanooga             74 Indiana                 99 NP  Des Moines, IA
+03/17/2016 Iona                    81 Iowa St.                94 NP  Denver, CO
+03/17/2016 Austin Peay             79 Kansas                 105 NP  Des Moines, IA
+03/17/2016 Stony Brook             57 Kentucky                85 NP  Des Moines, IA
+03/17/2016 Buffalo                 72 Miami FL                79 NP  Providence, RI
+03/17/2016 Arkansas Little Rock    85 Purdue                  83 NP2 Denver, CO
+03/17/2016 Gonzaga                 68 Seton Hall              52 NP  Denver, CO
+03/17/2016 Butler                  71 Texas Tech              61 NP  Raleigh, NC
+03/17/2016 Providence              70 USC                     69 NP  Raleigh, NC
+03/17/2016 Fresno St.              69 Utah                    80 NP  Denver, CO
+03/17/2016 Hampton                 45 Virginia                81 NP  Raleigh, NC
+03/17/2016 Florida Gulf Coast      67 North Carolina          83 nP  Raleigh, NC
+03/17/2016 Wichita St.             65 Arizona                 55 NP  Providence, RI
+03/18/2016 Hawaii                  77 California              66 NP  Spokane, WA
+03/18/2016 Syracuse                70 Dayton                  51 NP  St. Louis, MO
+03/18/2016 Temple                  70 Iowa                    72 NP1 Brooklyn, NY
+03/18/2016 South Dakota St.        74 Maryland                79 NP  Spokane, WA
+03/18/2016 Middle Tennessee        90 Michigan St.            81 NP  St. Louis, MO
+03/18/2016 Cal St. Bakersfield     68 Oklahoma                82 nP  Oklahoma City, OK
+03/18/2016 VCU                     75 Oregon St.              67 NP  Oklahoma City, OK
+03/18/2016 Cincinnati              76 Saint Joseph's          78 NP  Spokane, WA
+03/18/2016 Northern Iowa           75 Texas                   72 NP  Oklahoma City, OK
+03/18/2016 Green Bay               65 Texas A&M               92 NP  Oklahoma City, OK
+03/18/2016 UNC Asheville           56 Villanova               86 NP  Brooklyn, NY
+03/18/2016 Stephen F. Austin       70 West Virginia           56 NP  Brooklyn, NY
+03/18/2016 Pittsburgh              43 Wisconsin               47 NP  St. Louis, MO
+03/18/2016 Weber St.               53 Xavier                  71 NP  St. Louis, MO
+03/18/2016 Holy Cross              52 Oregon                  91 NP  Spokane, WA
+03/18/2016 Michigan                63 Notre Dame              70 NP  Brooklyn, NY
+03/19/2016 Yale                    64 Duke                    71 NP  Providence, RI
+03/19/2016 Butler                  69 Virginia                77 NP  Raleigh, NC
+03/19/2016 Connecticut             61 Kansas                  73 NP  Des Moines, IA
+03/19/2016 Arkansas Little Rock    61 Iowa St.                78 NP  Denver, CO
+03/19/2016 Indiana                 73 Kentucky                67 NP  Des Moines, IA
+03/19/2016 Wichita St.             57 Miami FL                65 NP  Providence, RI
+03/19/2016 Providence              66 North Carolina          85 nP  Raleigh, NC
+03/19/2016 Gonzaga                 82 Utah                    59 NP  Denver, CO
+03/20/2016 Middle Tennessee        50 Syracuse                75 NP  St. Louis, MO
+03/20/2016 Iowa                    68 Villanova               87 NP  Brooklyn, NY
+03/20/2016 VCU                     81 Oklahoma                85 nP  Oklahoma City, OK
+03/20/2016 Hawaii                  60 Maryland                73 NP  Spokane, WA
+03/20/2016 Wisconsin               66 Xavier                  63 NP  St. Louis, MO
+03/20/2016 Stephen F. Austin       75 Notre Dame              76 NP  Brooklyn, NY
+03/20/2016 Northern Iowa           88 Texas A&M               92 NP2 Oklahoma City, OK
+03/20/2016 Saint Joseph's          64 Oregon                  69 NP  Spokane, WA
+03/24/2016 Miami FL                69 Villanova               92 NP  Louisville, KY
+03/24/2016 Maryland                63 Kansas                  79 NP  Louisville, KY
+03/24/2016 Texas A&M               63 Oklahoma                77 NP  Anaheim, CA
+03/24/2016 Duke                    68 Oregon                  82 NP  Anaheim, CA
+03/25/2016 Iowa St.                71 Virginia                84 NP  Chicago, IL
+03/25/2016 Indiana                 86 North Carolina         101 NP  Philadelphia, PA
+03/25/2016 Gonzaga                 60 Syracuse                63 NP  Chicago, IL
+03/25/2016 Wisconsin               56 Notre Dame              61 NP  Philadelphia, PA
+03/26/2016 Villanova               64 Kansas                  59 NP  Louisville, KY
+03/26/2016 Oklahoma                80 Oregon                  68 NP  Anaheim, CA
+03/27/2016 Syracuse                68 Virginia                62 NP  Chicago, IL
+03/27/2016 Notre Dame              74 North Carolina          88 NP  Philadelphia, PA
+04/02/2016 Villanova               95 Oklahoma                51 NP  Houston, TX
+04/02/2016 Syracuse                66 North Carolina          83 NP  Houston, TX
+04/04/2016 Villanova               77 North Carolina          74 NP  Houston, TX
