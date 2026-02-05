@@ -1,0 +1,66 @@
+03/18/2021 UCLA                    86 Michigan St.            80 1NP West Lafayette, IN
+03/18/2021 Texas Southern          60 Mount St. Mary's        52 NP  Bloomington, IN
+03/18/2021 Appalachian St.         53 Norfolk St.             54 NP  Bloomington, IN
+03/18/2021 Drake                   53 Wichita St.             52 NP  West Lafayette, IN
+03/19/2021 Colgate                 68 Arkansas                85 NP  Indianapolis, IN
+03/19/2021 Hartford                55 Baylor                  79 NP  Indianapolis, IN
+03/19/2021 Rutgers                 60 Clemson                 56 NP  Indianapolis, IN
+03/19/2021 Virginia Tech           70 Florida                 75 1NP Indianapolis, IN
+03/19/2021 Cleveland St.           56 Houston                 87 NP  Bloomington, IN
+03/19/2021 Drexel                  49 Illinois                78 NP  Indianapolis, IN
+03/19/2021 Georgia Tech            60 Loyola Chicago          71 NP  Indianapolis, IN
+03/19/2021 Wisconsin               85 North Carolina          62 NP  West Lafayette, IN
+03/19/2021 Oral Roberts            75 Ohio St.                72 1NP West Lafayette, IN
+03/19/2021 Liberty                 60 Oklahoma St.            69 NP  Indianapolis, IN
+03/19/2021 North Texas             78 Purdue                  69 1NP Indianapolis, IN
+03/19/2021 Syracuse                78 San Diego St.           62 NP  Indianapolis, IN
+03/19/2021 Oregon St.              70 Tennessee               56 NP  Indianapolis, IN
+03/19/2021 Utah St.                53 Texas Tech              65 NP  Bloomington, IN
+03/19/2021 Winthrop                63 Villanova               73 NP  Indianapolis, IN
+03/19/2021 Morehead St.            67 West Virginia           84 NP  Indianapolis, IN
+03/20/2021 Iona                    55 Alabama                 68 NP  Indianapolis, IN
+03/20/2021 UCLA                    73 BYU                     62 NP  Indianapolis, IN
+03/20/2021 Georgetown              73 Colorado                96 NP  Indianapolis, IN
+03/20/2021 Maryland                63 Connecticut             54 NP  West Lafayette, IN
+03/20/2021 UC Santa Barbara        62 Creighton               63 NP  Indianapolis, IN
+03/20/2021 UNC Greensboro          54 Florida St.             64 NP  Indianapolis, IN
+03/20/2021 Norfolk St.             55 Gonzaga                 98 NP  Indianapolis, IN
+03/20/2021 Grand Canyon            74 Iowa                    86 NP  Indianapolis, IN
+03/20/2021 Eastern Washington      84 Kansas                  93 NP  Indianapolis, IN
+03/20/2021 St. Bonaventure         61 LSU                     76 NP  Bloomington, IN
+03/20/2021 Texas Southern          66 Michigan                82 NP  West Lafayette, IN
+03/20/2021 Missouri                68 Oklahoma                72 NP  Indianapolis, IN
+03/20/2021 Abilene Christian       53 Texas                   52 NP  Indianapolis, IN
+03/20/2021 Drake                   56 USC                     72 NP  Indianapolis, IN
+03/20/2021 Ohio                    62 Virginia                58 NP  Bloomington, IN
+03/21/2021 Texas Tech              66 Arkansas                68 NP  Indianapolis, IN
+03/21/2021 Wisconsin               63 Baylor                  76 NP  Indianapolis, IN
+03/21/2021 Oral Roberts            81 Florida                 78 NP  Indianapolis, IN
+03/21/2021 Rutgers                 60 Houston                 63 NP  Indianapolis, IN
+03/21/2021 Loyola Chicago          71 Illinois                58 NP  Indianapolis, IN
+03/21/2021 Oregon St.              80 Oklahoma St.            70 NP  Indianapolis, IN
+03/21/2021 North Texas             61 Villanova               84 NP  Indianapolis, IN
+03/21/2021 Syracuse                75 West Virginia           72 NP  Indianapolis, IN
+03/22/2021 Maryland                77 Alabama                 96 NP  Indianapolis, IN
+03/22/2021 Ohio                    58 Creighton               72 NP  Indianapolis, IN
+03/22/2021 Colorado                53 Florida St.             71 NP  Indianapolis, IN
+03/22/2021 Oklahoma                71 Gonzaga                 87 NP  Indianapolis, IN
+03/22/2021 Oregon                  95 Iowa                    80 NP  Indianapolis, IN
+03/22/2021 USC                     85 Kansas                  51 NP  Indianapolis, IN
+03/22/2021 LSU                     78 Michigan                86 NP  Indianapolis, IN
+03/22/2021 Abilene Christian       47 UCLA                    67 NP  Indianapolis, IN
+03/27/2021 Oral Roberts            70 Arkansas                72 NP  Indianapolis, IN
+03/27/2021 Villanova               51 Baylor                  62 NP  Indianapolis, IN
+03/27/2021 Syracuse                46 Houston                 62 NP  Indianapolis, IN
+03/27/2021 Oregon St.              65 Loyola Chicago          58 NP  Indianapolis, IN
+03/28/2021 UCLA                    88 Alabama                 78 1NP Indianapolis, IN
+03/28/2021 Creighton               65 Gonzaga                 83 NP  Indianapolis, IN
+03/28/2021 Florida St.             58 Michigan                76 NP  Indianapolis, IN
+03/28/2021 Oregon                  68 USC                     82 NP  Indianapolis, IN
+03/29/2021 Arkansas                72 Baylor                  81 NP  Indianapolis, IN
+03/29/2021 Oregon St.              61 Houston                 67 NP  Indianapolis, IN
+03/30/2021 USC                     66 Gonzaga                 85 NP  Indianapolis, IN
+03/30/2021 UCLA                    51 Michigan                49 NP  Indianapolis, IN
+04/03/2021 Houston                 59 Baylor                  78 NP  Indianapolis, IN
+04/03/2021 UCLA                    90 Gonzaga                 93 1NP Indianapolis, IN
+04/05/2021 Baylor                  86 Gonzaga                 70 NP  Indianapolis, IN
