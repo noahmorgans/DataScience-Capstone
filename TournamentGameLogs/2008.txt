@@ -1,0 +1,64 @@
+03/18/2008 Mount St. Mary's        69 Coppin St.              60 NP  Dayton, OH
+03/20/2008 Winthrop                40 Washington St.          71 NP  Denver, CO
+03/20/2008 George Mason            50 Notre Dame              68 NP  Denver, CO
+03/20/2008 Portland St.            61 Kansas                  85 NP  Omaha, NE
+03/20/2008 Kent St.                58 Nevada Las Vegas        71 NP  Omaha, NE
+03/20/2008 Kansas St.              80 Southern California     67 NP  Omaha, NE
+03/20/2008 Cal St. Fullerton       56 Wisconsin               71 NP  Omaha, NE
+03/20/2008 Temple                  61 Michigan St.            72 NP  Denver, CO
+03/20/2008 Kentucky                66 Marquette               74 NP  Anaheim, CA
+03/20/2008 Oral Roberts            63 Pittsburgh              82 NP  Denver, CO
+03/20/2008 Cornell                 53 Stanford                77 NP  Anaheim, CA
+03/20/2008 Georgia                 61 Xavier                  73 NP  Washington, DC
+03/20/2008 Baylor                  79 Purdue                  90 NP  Washington, DC
+03/20/2008 Belmont                 70 Duke                    71 NP  Washington, DC
+03/20/2008 Texas A&M               67 Brigham Young           62 NP  Anaheim, CA
+03/20/2008 Arizona                 65 West Virginia           75 NP  Washington, DC
+03/20/2008 Mississippi Valley St.  29 UCLA                    70 NP  Anaheim, CA
+03/21/2008 American                57 Tennessee               72 NP  Birmingham, AL
+03/21/2008 South Alabama           61 Butler                  81 NP  Birmingham, AL
+03/21/2008 Saint Joseph's          64 Oklahoma                72 NP  Birmingham, AL
+03/21/2008 Mount St. Mary's        74 North Carolina         113 NP  Raleigh, NC
+03/21/2008 Arkansas                86 Indiana                 72 NP  Raleigh, NC
+03/21/2008 Boise St.               61 Louisville              79 NP  Birmingham, AL
+03/21/2008 Davidson                82 Gonzaga                 76 NP  Raleigh, NC
+03/21/2008 MD Baltimore County     47 Georgetown              66 NP  Raleigh, NC
+03/21/2008 Siena                   83 Vanderbilt              62 NP  Tampa, FL
+03/21/2008 Villanova               75 Clemson                 69 NP  Tampa, FL
+03/21/2008 St. Mary's              64 Miami FL                78 NP  N. Little Rock, AR
+03/21/2008 Austin Peay             54 Texas                   74 NP  N. Little Rock, AR
+03/21/2008 Oregon                  69 Mississippi St.         76 NP  N. Little Rock, AR
+03/21/2008 Texas Arlington         63 Memphis                 87 NP  N. Little Rock, AR
+03/21/2008 Western Kentucky       101 Drake                   99 1NP Tampa, FL
+03/21/2008 San Diego               70 Connecticut             69 1NP Tampa, FL
+03/22/2008 Notre Dame              41 Washington St.          61 NP  Denver, CO
+03/22/2008 Kansas St.              55 Wisconsin               72 NP  Omaha, NE
+03/22/2008 Nevada Las Vegas        56 Kansas                  75 NP  Omaha, NE
+03/22/2008 Marquette               81 Stanford                82 1NP Anaheim, CA
+03/22/2008 Michigan St.            65 Pittsburgh              54 NP  Denver, CO
+03/22/2008 West Virginia           73 Duke                    67 NP  Washington, DC
+03/22/2008 Purdue                  78 Xavier                  85 NP  Washington, DC
+03/22/2008 Texas A&M               49 UCLA                    51 NP  Anaheim, CA
+03/23/2008 Butler                  71 Tennessee               76 1NP Birmingham, AL
+03/23/2008 Oklahoma                48 Louisville              78 NP  Birmingham, AL
+03/23/2008 Arkansas                77 North Carolina         108 NP  Raleigh, NC
+03/23/2008 Siena                   72 Villanova               84 NP  Tampa, FL
+03/23/2008 Davidson                74 Georgetown              70 NP  Raleigh, NC
+03/23/2008 Miami FL                72 Texas                   75 NP  N. Little Rock, AR
+03/23/2008 Mississippi St.         74 Memphis                 77 NP  N. Little Rock, AR
+03/23/2008 San Diego               63 Western Kentucky        72 NP  Tampa, FL
+03/27/2008 Washington St.          47 North Carolina          68 NP  Charlotte, NC
+03/27/2008 Louisville              79 Tennessee               60 NP  Charlotte, NC
+03/27/2008 West Virginia           75 Xavier                  79 1NP Phoenix, AZ
+03/27/2008 Western Kentucky        78 UCLA                    88 NP  Phoenix, AZ
+03/28/2008 Davidson                73 Wisconsin               56 NP  Detroit, MI
+03/28/2008 Villanova               57 Kansas                  72 NP  Detroit, MI
+03/28/2008 Stanford                62 Texas                   82 NP  Houston, TX
+03/28/2008 Michigan St.            74 Memphis                 92 NP  Houston, TX
+03/29/2008 Louisville              73 North Carolina          83 NP  Charlotte, NC
+03/29/2008 Xavier                  57 UCLA                    76 NP  Phoenix, AZ
+03/30/2008 Davidson                57 Kansas                  59 NP  Detroit, MI
+03/30/2008 Texas                   67 Memphis                 85 NP  Houston, TX
+04/05/2008 UCLA                    63 Memphis                 78 NP  San Antonio, TX
+04/05/2008 Kansas                  84 North Carolina          66 NP  San Antonio, TX
+04/07/2008 Kansas                  75 Memphis                 68 1NP San Antonio, TX
