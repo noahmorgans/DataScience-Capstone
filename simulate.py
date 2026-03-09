@@ -7,7 +7,7 @@ import joblib
 
 model = joblib.load("Models/xgb_model.json")
 
-stats_df = pd.read_csv("PreTournamentStats/2025.csv", encoding="cp1252")
+stats_df = pd.read_csv("PreTournamentStats/2024.csv", encoding="cp1252")
 stats_df["Team"] = stats_df["Team"].str.strip()
 stats = stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T."]].to_dict("index")
 
@@ -107,13 +107,13 @@ def get_actual_winners(rounds):
         actual_winners.append(winners)
     return actual_winners
 
-games = parse_bracket("TournamentGameLogs/2025.txt")
+games = parse_bracket("TournamentGameLogs/2024.txt")
 rounds = build_rounds(games)
 actual_winners = get_actual_winners(rounds)
 
 iteration_points = []
 
-for i in range(10000):
+for i in range(5000):
     pts = simulate_tournament(rounds, stats, model, actual_winners)
     iteration_points.append(pts)
 

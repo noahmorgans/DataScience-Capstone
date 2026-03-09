@@ -22,11 +22,29 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.05, rand
 
 # define model
 model = xgb.XGBClassifier(
-    eta=0.05,
-    max_depth=3,
+    eta=0.25,
+    max_depth=4,
+    gamma=0.1,
+    tree_method="exact",
+    min_child_weight=2,
+    max_delta_step=4,
     objective="binary:logistic",
     eval_metric="logloss"
 )
+
+# Best parameter values thus far:
+# eta = 0.25
+# max_depth = 4
+# gamma = 0.1
+# tree_method = "exact"
+# min_child_weight = 2
+# max_delta_step = 5 (minimal effect here)
+# alpha = 0.1
+#
+# irrelevant parameters that were tested: 
+# subsample, alpha, reg_lambda, colsample_bytree,
+# ...
+
 
 # calibrated_model = CalibratedClassifierCV(
 #     model,
