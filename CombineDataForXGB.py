@@ -1,18 +1,21 @@
+import sys
+
 import pandas as pd
 import os
 import re
 
-START_YEAR = 2008
-END_YEAR = 2025
+START_YEAR = 2026
+END_YEAR = 2026
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATS_DIR = "PreTournamentStats"
 GAME_LOGS_DIR = "TournamentGameLogs"
+MOMENTUM_DIR = "Momentum"
 OUTPUT_DIR = os.path.join(BASE_DIR, "ProcessedData")
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "CombinedData.csv")
 
 STAT_COLUMNS = [
-    "AdjOE", "AdjDE", "Adj T."
+    "AdjOE", "AdjDE", "Adj T.", "Momentum"
 ]
 
 def parse_game_line(line):
@@ -42,8 +45,9 @@ for year in range(START_YEAR, END_YEAR + 1):
 
     stats_path = os.path.join(STATS_DIR, f"{year}.csv")
     games_path = os.path.join(GAME_LOGS_DIR, f"{year}.txt")
+    momentum_path = os.path.join(MOMENTUM_DIR, f"{year}.csv")
 
-    if not os.path.exists(stats_path) or not os.path.exists(games_path):
+    if not os.path.exists(stats_path) or not os.path.exists(games_path) or not os.path.exists(momentum_path):
         print(f"Missing data for {year}, skipping.")
         continue
 
@@ -54,6 +58,7 @@ for year in range(START_YEAR, END_YEAR + 1):
 
     stats_df["Team"] = stats_df["Team"].str.strip()
     stats_df = stats_df.set_index("Team")
+    stats_df['Momentum'] = pd.read_csv(momentum_path)['Momentum'].values
 
     with open(games_path, "r", encoding="utf-8") as f:
         for line in f:

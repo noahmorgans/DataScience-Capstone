@@ -54,7 +54,7 @@ def game_in_first_half(team, date, dates_dict):
     else:
         return 1
 
-YEAR = 2008
+YEAR = 2026
 
 stats_df = pd.read_csv(
     f"PreTournamentStats/{YEAR}.csv",

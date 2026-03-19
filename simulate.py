@@ -9,7 +9,9 @@ model = joblib.load("Models/xgb_model.json")
 
 stats_df = pd.read_csv("PreTournamentStats/2024.csv", encoding="cp1252")
 stats_df["Team"] = stats_df["Team"].str.strip()
-stats = stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T."]].to_dict("index")
+momentum_df = pd.read_csv("Momentum/2024.csv")
+stats_df["Momentum"] = momentum_df["Momentum"].values
+stats = stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T.", "Momentum"]].to_dict("index")
 
 def parse_bracket(filepath):
     games = []
@@ -65,7 +67,8 @@ def win_prob(team1, team2, stats, model):
     diff = np.array([[
         stats[t1]["AdjOE"] - stats[t2]["AdjOE"],
         stats[t1]["AdjDE"] - stats[t2]["AdjDE"],
-        stats[t1]["Adj T."] - stats[t2]["Adj T."]
+        stats[t1]["Adj T."] - stats[t2]["Adj T."],
+        stats[t1]["Momentum"] - stats[t2]["Momentum"]
     ]])
     prob = model.predict_proba(diff)[0][1]
     return prob
@@ -113,7 +116,7 @@ actual_winners = get_actual_winners(rounds)
 
 iteration_points = []
 
-for i in range(5000):
+for i in range(10000):
     pts = simulate_tournament(rounds, stats, model, actual_winners)
     iteration_points.append(pts)
 
