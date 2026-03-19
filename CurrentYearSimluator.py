@@ -4,13 +4,21 @@ from difflib import get_close_matches
 import joblib
 import sys
 import os
+from scipy.optimize import minimize
+import numpy as np
+
+def temperature_scale(p, T=1):
+    p = np.clip(p, 1e-6, 1 - 1e-6)
+    logit = np.log(p / (1 - p))
+    scaled_logit = logit / T
+    return 1 / (1 + np.exp(-scaled_logit))
 
 # ── Config ──────────────────────────────────────────────────────────────────
 STATS_CSV      = "PreTournamentStats/2026.csv"
 MOMENTUM_CSV   = "Momentum/2026.csv"
 MODEL_PATH     = "Models/xgb_model.json"
 BRACKET_TXT    = "CurrentYearBracket/bracket.txt"        # one team per line, adjacent pairs = matchups
-OUTPUT_DIR     = "SimulationResults"
+OUTPUT_DIR     = "SimulationResults/T=1"
 NUM_SIMS       = 25
 
 ROUND_NAMES = [
@@ -82,7 +90,7 @@ def simulate_tournament(teams, stats, model, out_file):
         for i in range(0, len(current_round), 2):
             t1, t2 = current_round[i], current_round[i + 1]
             try:
-                p = win_prob(t1, t2, stats, model)
+                p = temperature_scale(win_prob(t1, t2, stats, model))
             except ValueError as e:
                 lines.append(f"  WARNING: {e}  — defaulting to 50/50")
                 p = 0.5

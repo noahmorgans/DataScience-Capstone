@@ -1,0 +1,219 @@
+======================================================
+       NCAA TOURNAMENT BRACKET SIMULATION
+======================================================
+
+──────────────────────────────────────────────────────
+  Round of 64  (64 teams → 32)
+──────────────────────────────────────────────────────
+  Duke                           vs  Siena
+    → Duke wins  (90.8%)
+
+  Ohio St.                       vs  TCU
+    → Ohio St. wins  (79.7%)
+
+  St. John's                     vs  Northern Iowa
+    → St. John's wins  (88.3%)
+
+  Kansas                         vs  Cal Baptist
+    → Kansas wins  (88.9%)
+
+  Louisville                     vs  South Florida
+    → Louisville wins  (90.2%)
+
+  Michigan St.                   vs  North Dakota St.
+    → Michigan St. wins  (88.7%)
+
+  UCLA                           vs  UCF
+    → UCF wins  (16.7%)
+
+  Connecticut                    vs  Furman
+    → Connecticut wins  (89.3%)
+
+  Florida                        vs  Prairie View A&M
+    → Prairie View A&M wins  (16.3%)
+
+  Clemson                        vs  Iowa
+    → Iowa wins  (82.5%)
+
+  Vanderbilt                     vs  McNeese St.
+    → Vanderbilt wins  (89.7%)
+
+  Nebraska                       vs  Troy
+    → Troy wins  (8.6%)
+
+  North Carolina                 vs  VCU
+    → North Carolina wins  (69.0%)
+
+  Illinois                       vs  Penn
+    → Illinois wins  (89.1%)
+
+  Saint Mary's                   vs  Texas A&M
+    → Saint Mary's wins  (78.0%)
+
+  Houston                        vs  Idaho
+    → Houston wins  (94.6%)
+
+  Arizona                        vs  LIU
+    → Arizona wins  (90.1%)
+
+  Villanova                      vs  Utah St.
+    → Villanova wins  (65.7%)
+
+  Wisconsin                      vs  High Point
+    → Wisconsin wins  (87.4%)
+
+  Arkansas                       vs  Hawaii
+    → Arkansas wins  (90.2%)
+
+  BYU                            vs  Texas
+    → BYU wins  (66.6%)
+
+  Gonzaga                        vs  Kennesaw St.
+    → Kennesaw St. wins  (13.5%)
+
+  Miami FL                       vs  Missouri
+    → Missouri wins  (53.6%)
+
+  Purdue                         vs  Queens
+    → Purdue wins  (82.4%)
+
+  Michigan                       vs  Howard
+    → Michigan wins  (90.8%)
+
+  Georgia                        vs  Saint Louis
+    → Saint Louis wins  (66.7%)
+
+  Texas Tech                     vs  Akron
+    → Texas Tech wins  (95.2%)
+
+  Alabama                        vs  Hofstra
+    → Hofstra wins  (14.4%)
+
+  Tennessee                      vs  Miami OH
+    → Tennessee wins  (93.0%)
+
+  Virginia                       vs  Wright St.
+    → Wright St. wins  (30.1%)
+
+  Kentucky                       vs  Santa Clara
+    → Kentucky wins  (66.3%)
+
+  Iowa St.                       vs  Tennessee St.
+    → Iowa St. wins  (92.0%)
+
+
+──────────────────────────────────────────────────────
+  Round of 32  (32 teams → 16)
+──────────────────────────────────────────────────────
+  Duke                           vs  Ohio St.
+    → Duke wins  (83.0%)
+
+  St. John's                     vs  Kansas
+    → St. John's wins  (46.5%)
+
+  Louisville                     vs  Michigan St.
+    → Michigan St. wins  (68.3%)
+
+  UCF                            vs  Connecticut
+    → Connecticut wins  (72.8%)
+
+  Prairie View A&M               vs  Iowa
+    → Iowa wins  (94.3%)
+
+  Vanderbilt                     vs  Troy
+    → Troy wins  (10.2%)
+
+  North Carolina                 vs  Illinois
+    → North Carolina wins  (34.4%)
+
+  Saint Mary's                   vs  Houston
+    → Saint Mary's wins  (25.6%)
+
+  Arizona                        vs  Villanova
+    → Arizona wins  (87.4%)
+
+  Wisconsin                      vs  Arkansas
+    → Wisconsin wins  (35.3%)
+
+  BYU                            vs  Kennesaw St.
+    → BYU wins  (87.3%)
+
+  Missouri                       vs  Purdue
+    → Purdue wins  (64.4%)
+
+  Michigan                       vs  Saint Louis
+    → Michigan wins  (90.5%)
+
+  Texas Tech                     vs  Hofstra
+    → Texas Tech wins  (80.6%)
+
+  Tennessee                      vs  Wright St.
+    → Tennessee wins  (89.2%)
+
+  Kentucky                       vs  Iowa St.
+    → Iowa St. wins  (74.5%)
+
+
+──────────────────────────────────────────────────────
+  Sweet 16  (16 teams → 8)
+──────────────────────────────────────────────────────
+  Duke                           vs  St. John's
+    → St. John's wins  (21.1%)
+
+  Michigan St.                   vs  Connecticut
+    → Michigan St. wins  (68.9%)
+
+  Iowa                           vs  Troy
+    → Iowa wins  (86.6%)
+
+  North Carolina                 vs  Saint Mary's
+    → Saint Mary's wins  (78.1%)
+
+  Arizona                        vs  Wisconsin
+    → Arizona wins  (86.4%)
+
+  BYU                            vs  Purdue
+    → BYU wins  (40.9%)
+
+  Michigan                       vs  Texas Tech
+    → Texas Tech wins  (21.8%)
+
+  Tennessee                      vs  Iowa St.
+    → Tennessee wins  (58.8%)
+
+
+──────────────────────────────────────────────────────
+  Elite Eight  (8 teams → 4)
+──────────────────────────────────────────────────────
+  St. John's                     vs  Michigan St.
+    → Michigan St. wins  (60.4%)
+
+  Iowa                           vs  Saint Mary's
+    → Saint Mary's wins  (40.2%)
+
+  Arizona                        vs  BYU
+    → Arizona wins  (76.5%)
+
+  Texas Tech                     vs  Tennessee
+    → Texas Tech wins  (51.1%)
+
+
+──────────────────────────────────────────────────────
+  Final Four  (4 teams → 2)
+──────────────────────────────────────────────────────
+  Michigan St.                   vs  Saint Mary's
+    → Michigan St. wins  (32.6%)
+
+  Arizona                        vs  Texas Tech
+    → Arizona wins  (72.9%)
+
+
+──────────────────────────────────────────────────────
+  Championship  (2 teams → 1)
+──────────────────────────────────────────────────────
+  Michigan St.                   vs  Arizona
+    → Michigan St. wins  (19.5%)
+
+======================================================
+  CHAMPION: Michigan St.
+======================================================

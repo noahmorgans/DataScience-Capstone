@@ -82,7 +82,7 @@ joblib.dump(model, "Models/xgb_model.json")
 # print(results[["year", "team1", "team2", "team1_win", "predicted_team1_win_prob"]])
 
 # os.makedirs("Models", exist_ok=True)
-# joblib.dump(calibrated_model, "Models/xgb_calibrated_model.json")
+joblib.dump(calibrated_model, "Models/xgb_calibrated_model.json")
 
 from sklearn.calibration import calibration_curve
 import matplotlib.pyplot as plt   # ← fix the typo too (matplotplib → matplotlib)
@@ -95,9 +95,9 @@ win_probs_raw = model.predict_proba(X_test)[:, 1]
 win_probs_cal = calibrated_model.predict_proba(X_test)[:, 1]
 
 # Raw model
-prob_true_raw, prob_pred_raw = calibration_curve(y_test, win_probs_raw, n_bins=10)
+prob_true_raw, prob_pred_raw = calibration_curve(y_test, win_probs_raw, n_bins=10, strategy='quantile')
 # Calibrated model
-prob_true_cal, prob_pred_cal = calibration_curve(y_test, win_probs_cal, n_bins=10)
+prob_true_cal, prob_pred_cal = calibration_curve(y_test, win_probs_cal, n_bins=10, strategy='quantile')
 
 plt.plot(prob_pred_raw, prob_true_raw, marker='o', label='Raw XGBoost')
 plt.plot(prob_pred_cal, prob_true_cal, marker='s', label='Calibrated (sigmoid)')

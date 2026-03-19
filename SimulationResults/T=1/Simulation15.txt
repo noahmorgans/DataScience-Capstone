@@ -1,0 +1,219 @@
+======================================================
+       NCAA TOURNAMENT BRACKET SIMULATION
+======================================================
+
+──────────────────────────────────────────────────────
+  Round of 64  (64 teams → 32)
+──────────────────────────────────────────────────────
+  Duke                           vs  Siena
+    → Duke wins  (99.0%)
+
+  Ohio St.                       vs  TCU
+    → Ohio St. wins  (93.9%)
+
+  St. John's                     vs  Northern Iowa
+    → St. John's wins  (98.3%)
+
+  Kansas                         vs  Cal Baptist
+    → Kansas wins  (98.5%)
+
+  Louisville                     vs  South Florida
+    → Louisville wins  (98.8%)
+
+  Michigan St.                   vs  North Dakota St.
+    → Michigan St. wins  (98.4%)
+
+  UCLA                           vs  UCF
+    → UCLA wins  (96.1%)
+
+  Connecticut                    vs  Furman
+    → Connecticut wins  (98.6%)
+
+  Florida                        vs  Prairie View A&M
+    → Florida wins  (96.4%)
+
+  Clemson                        vs  Iowa
+    → Iowa wins  (95.7%)
+
+  Vanderbilt                     vs  McNeese St.
+    → Vanderbilt wins  (98.7%)
+
+  Nebraska                       vs  Troy
+    → Nebraska wins  (99.1%)
+
+  North Carolina                 vs  VCU
+    → North Carolina wins  (83.2%)
+
+  Illinois                       vs  Penn
+    → Illinois wins  (98.5%)
+
+  Saint Mary's                   vs  Texas A&M
+    → Saint Mary's wins  (92.6%)
+
+  Houston                        vs  Idaho
+    → Houston wins  (99.7%)
+
+  Arizona                        vs  LIU
+    → Arizona wins  (98.8%)
+
+  Villanova                      vs  Utah St.
+    → Villanova wins  (78.6%)
+
+  Wisconsin                      vs  High Point
+    → Wisconsin wins  (98.0%)
+
+  Arkansas                       vs  Hawaii
+    → Arkansas wins  (98.8%)
+
+  BYU                            vs  Texas
+    → BYU wins  (80.0%)
+
+  Gonzaga                        vs  Kennesaw St.
+    → Gonzaga wins  (97.6%)
+
+  Miami FL                       vs  Missouri
+    → Missouri wins  (57.1%)
+
+  Purdue                         vs  Queens
+    → Purdue wins  (95.6%)
+
+  Michigan                       vs  Howard
+    → Michigan wins  (99.0%)
+
+  Georgia                        vs  Saint Louis
+    → Saint Louis wins  (80.0%)
+
+  Texas Tech                     vs  Akron
+    → Texas Tech wins  (99.7%)
+
+  Alabama                        vs  Hofstra
+    → Alabama wins  (97.2%)
+
+  Tennessee                      vs  Miami OH
+    → Tennessee wins  (99.4%)
+
+  Virginia                       vs  Wright St.
+    → Virginia wins  (84.4%)
+
+  Kentucky                       vs  Santa Clara
+    → Kentucky wins  (79.5%)
+
+  Iowa St.                       vs  Tennessee St.
+    → Iowa St. wins  (99.2%)
+
+
+──────────────────────────────────────────────────────
+  Round of 32  (32 teams → 16)
+──────────────────────────────────────────────────────
+  Duke                           vs  Ohio St.
+    → Duke wins  (96.0%)
+
+  St. John's                     vs  Kansas
+    → St. John's wins  (43.1%)
+
+  Louisville                     vs  Michigan St.
+    → Michigan St. wins  (82.3%)
+
+  UCLA                           vs  Connecticut
+    → Connecticut wins  (53.6%)
+
+  Florida                        vs  Iowa
+    → Florida wins  (90.4%)
+
+  Vanderbilt                     vs  Nebraska
+    → Vanderbilt wins  (98.3%)
+
+  North Carolina                 vs  Illinois
+    → Illinois wins  (78.4%)
+
+  Saint Mary's                   vs  Houston
+    → Saint Mary's wins  (10.6%)
+
+  Arizona                        vs  Villanova
+    → Arizona wins  (98.0%)
+
+  Wisconsin                      vs  Arkansas
+    → Arkansas wins  (77.1%)
+
+  BYU                            vs  Gonzaga
+    → Gonzaga wins  (91.8%)
+
+  Missouri                       vs  Purdue
+    → Purdue wins  (76.5%)
+
+  Michigan                       vs  Saint Louis
+    → Michigan wins  (98.9%)
+
+  Texas Tech                     vs  Alabama
+    → Texas Tech wins  (38.3%)
+
+  Tennessee                      vs  Virginia
+    → Tennessee wins  (89.7%)
+
+  Kentucky                       vs  Iowa St.
+    → Iowa St. wins  (89.5%)
+
+
+──────────────────────────────────────────────────────
+  Sweet 16  (16 teams → 8)
+──────────────────────────────────────────────────────
+  Duke                           vs  St. John's
+    → Duke wins  (93.3%)
+
+  Michigan St.                   vs  Connecticut
+    → Michigan St. wins  (83.1%)
+
+  Florida                        vs  Vanderbilt
+    → Florida wins  (95.9%)
+
+  Illinois                       vs  Saint Mary's
+    → Illinois wins  (97.4%)
+
+  Arizona                        vs  Arkansas
+    → Arizona wins  (77.2%)
+
+  Gonzaga                        vs  Purdue
+    → Purdue wins  (48.0%)
+
+  Michigan                       vs  Texas Tech
+    → Michigan wins  (92.8%)
+
+  Tennessee                      vs  Iowa St.
+    → Iowa St. wins  (33.0%)
+
+
+──────────────────────────────────────────────────────
+  Elite Eight  (8 teams → 4)
+──────────────────────────────────────────────────────
+  Duke                           vs  Michigan St.
+    → Duke wins  (93.5%)
+
+  Florida                        vs  Illinois
+    → Florida wins  (83.5%)
+
+  Arizona                        vs  Purdue
+    → Arizona wins  (77.9%)
+
+  Michigan                       vs  Iowa St.
+    → Iowa St. wins  (71.1%)
+
+
+──────────────────────────────────────────────────────
+  Final Four  (4 teams → 2)
+──────────────────────────────────────────────────────
+  Duke                           vs  Florida
+    → Florida wins  (24.0%)
+
+  Arizona                        vs  Iowa St.
+    → Iowa St. wins  (80.0%)
+
+
+──────────────────────────────────────────────────────
+  Championship  (2 teams → 1)
+──────────────────────────────────────────────────────
+  Florida                        vs  Iowa St.
+    → Iowa St. wins  (30.2%)
+
+======================================================
+  CHAMPION: Iowa St.
+======================================================
