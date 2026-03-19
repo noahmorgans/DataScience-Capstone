@@ -4,8 +4,8 @@ import pandas as pd
 import os
 import re
 
-START_YEAR = 2026
-END_YEAR = 2026
+START_YEAR = 2008
+END_YEAR = 2025
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATS_DIR = "PreTournamentStats"

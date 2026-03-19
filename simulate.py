@@ -7,11 +7,13 @@ import joblib
 
 model = joblib.load("Models/xgb_model.json")
 
-stats_df = pd.read_csv("PreTournamentStats/2024.csv", encoding="cp1252")
+stats_df = pd.read_csv("PreTournamentStats/2023.csv", encoding="cp1252")
 stats_df["Team"] = stats_df["Team"].str.strip()
-momentum_df = pd.read_csv("Momentum/2024.csv")
+momentum_df = pd.read_csv("Momentum/2023.csv")
 stats_df["Momentum"] = momentum_df["Momentum"].values
 stats = stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T.", "Momentum"]].to_dict("index")
+
+prob_cache = {}
 
 def parse_bracket(filepath):
     games = []
@@ -64,14 +66,16 @@ def lookup_team(name, stats):
 def win_prob(team1, team2, stats, model):
     t1 = lookup_team(team1, stats)
     t2 = lookup_team(team2, stats)
-    diff = np.array([[
-        stats[t1]["AdjOE"] - stats[t2]["AdjOE"],
-        stats[t1]["AdjDE"] - stats[t2]["AdjDE"],
-        stats[t1]["Adj T."] - stats[t2]["Adj T."],
-        stats[t1]["Momentum"] - stats[t2]["Momentum"]
-    ]])
-    prob = model.predict_proba(diff)[0][1]
-    return prob
+    key = (team1, team2)
+    if key not in prob_cache:
+        diff = np.array([[
+            stats[t1]["AdjOE"] - stats[t2]["AdjOE"],
+            stats[t1]["AdjDE"] - stats[t2]["AdjDE"],
+            stats[t1]["Adj T."] - stats[t2]["Adj T."],
+            stats[t1]["Momentum"] - stats[t2]["Momentum"]
+        ]])
+        prob_cache[key] = model.predict_proba(diff)[0][1]
+    return prob_cache[key]
 
 def simulate_tournament(rounds, stats, model, actual_winners):
     total = 0
@@ -110,13 +114,13 @@ def get_actual_winners(rounds):
         actual_winners.append(winners)
     return actual_winners
 
-games = parse_bracket("TournamentGameLogs/2024.txt")
+games = parse_bracket("TournamentGameLogs/2023.txt")
 rounds = build_rounds(games)
 actual_winners = get_actual_winners(rounds)
 
 iteration_points = []
 
-for i in range(10000):
+for i in range(25000):
     pts = simulate_tournament(rounds, stats, model, actual_winners)
     iteration_points.append(pts)
 
