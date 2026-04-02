@@ -1,0 +1,219 @@
+======================================================
+       NCAA TOURNAMENT BRACKET SIMULATION
+======================================================
+
+──────────────────────────────────────────────────────
+  Round of 64  (64 teams → 32)
+──────────────────────────────────────────────────────
+  Duke                           vs  Siena
+    → Duke wins  (94.1%)
+
+  Ohio St.                       vs  TCU
+    → Ohio St. wins  (79.6%)
+
+  St. John's                     vs  Northern Iowa
+    → St. John's wins  (66.8%)
+
+  Kansas                         vs  Cal Baptist
+    → Kansas wins  (94.9%)
+
+  Louisville                     vs  South Florida
+    → Louisville wins  (83.4%)
+
+  Michigan St.                   vs  North Dakota St.
+    → North Dakota St. wins  (12.3%)
+
+  UCLA                           vs  UCF
+    → UCF wins  (19.8%)
+
+  Connecticut                    vs  Furman
+    → Furman wins  (15.2%)
+
+  Florida                        vs  Prairie View A&M
+    → Florida wins  (87.5%)
+
+  Clemson                        vs  Iowa
+    → Clemson wins  (20.8%)
+
+  Vanderbilt                     vs  McNeese St.
+    → McNeese St. wins  (6.5%)
+
+  Nebraska                       vs  Troy
+    → Nebraska wins  (95.0%)
+
+  North Carolina                 vs  VCU
+    → North Carolina wins  (74.3%)
+
+  Illinois                       vs  Penn
+    → Illinois wins  (94.2%)
+
+  Saint Mary's                   vs  Texas A&M
+    → Saint Mary's wins  (85.7%)
+
+  Houston                        vs  Idaho
+    → Houston wins  (96.0%)
+
+  Arizona                        vs  LIU
+    → Arizona wins  (96.9%)
+
+  Villanova                      vs  Utah St.
+    → Utah St. wins  (28.1%)
+
+  Wisconsin                      vs  High Point
+    → Wisconsin wins  (90.3%)
+
+  Arkansas                       vs  Hawaii
+    → Arkansas wins  (93.7%)
+
+  BYU                            vs  Texas
+    → BYU wins  (81.9%)
+
+  Gonzaga                        vs  Kennesaw St.
+    → Gonzaga wins  (91.1%)
+
+  Miami FL                       vs  Missouri
+    → Miami FL wins  (61.5%)
+
+  Purdue                         vs  Queens
+    → Purdue wins  (91.0%)
+
+  Michigan                       vs  Howard
+    → Michigan wins  (96.1%)
+
+  Georgia                        vs  Saint Louis
+    → Saint Louis wins  (61.2%)
+
+  Texas Tech                     vs  Akron
+    → Texas Tech wins  (92.7%)
+
+  Alabama                        vs  Hofstra
+    → Alabama wins  (89.7%)
+
+  Tennessee                      vs  Miami OH
+    → Tennessee wins  (94.3%)
+
+  Virginia                       vs  Wright St.
+    → Wright St. wins  (23.8%)
+
+  Kentucky                       vs  Santa Clara
+    → Kentucky wins  (61.9%)
+
+  Iowa St.                       vs  Tennessee St.
+    → Iowa St. wins  (95.9%)
+
+
+──────────────────────────────────────────────────────
+  Round of 32  (32 teams → 16)
+──────────────────────────────────────────────────────
+  Duke                           vs  Ohio St.
+    → Duke wins  (88.2%)
+
+  St. John's                     vs  Kansas
+    → St. John's wins  (63.1%)
+
+  Louisville                     vs  North Dakota St.
+    → Louisville wins  (97.1%)
+
+  UCF                            vs  Furman
+    → UCF wins  (88.3%)
+
+  Florida                        vs  Clemson
+    → Florida wins  (96.3%)
+
+  McNeese St.                    vs  Nebraska
+    → Nebraska wins  (76.5%)
+
+  North Carolina                 vs  Illinois
+    → Illinois wins  (67.3%)
+
+  Saint Mary's                   vs  Houston
+    → Saint Mary's wins  (11.4%)
+
+  Arizona                        vs  Utah St.
+    → Utah St. wins  (13.3%)
+
+  Wisconsin                      vs  Arkansas
+    → Arkansas wins  (56.0%)
+
+  BYU                            vs  Gonzaga
+    → Gonzaga wins  (67.3%)
+
+  Miami FL                       vs  Purdue
+    → Purdue wins  (44.8%)
+
+  Michigan                       vs  Saint Louis
+    → Michigan wins  (93.8%)
+
+  Texas Tech                     vs  Alabama
+    → Alabama wins  (67.9%)
+
+  Tennessee                      vs  Wright St.
+    → Tennessee wins  (94.1%)
+
+  Kentucky                       vs  Iowa St.
+    → Iowa St. wins  (88.1%)
+
+
+──────────────────────────────────────────────────────
+  Sweet 16  (16 teams → 8)
+──────────────────────────────────────────────────────
+  Duke                           vs  St. John's
+    → Duke wins  (79.3%)
+
+  Louisville                     vs  UCF
+    → Louisville wins  (86.3%)
+
+  Florida                        vs  Nebraska
+    → Florida wins  (84.1%)
+
+  Illinois                       vs  Saint Mary's
+    → Illinois wins  (82.4%)
+
+  Utah St.                       vs  Arkansas
+    → Arkansas wins  (77.0%)
+
+  Gonzaga                        vs  Purdue
+    → Purdue wins  (62.3%)
+
+  Michigan                       vs  Alabama
+    → Michigan wins  (63.0%)
+
+  Tennessee                      vs  Iowa St.
+    → Tennessee wins  (46.0%)
+
+
+──────────────────────────────────────────────────────
+  Elite Eight  (8 teams → 4)
+──────────────────────────────────────────────────────
+  Duke                           vs  Louisville
+    → Duke wins  (76.8%)
+
+  Florida                        vs  Illinois
+    → Florida wins  (69.6%)
+
+  Arkansas                       vs  Purdue
+    → Arkansas wins  (82.8%)
+
+  Michigan                       vs  Tennessee
+    → Michigan wins  (90.7%)
+
+
+──────────────────────────────────────────────────────
+  Final Four  (4 teams → 2)
+──────────────────────────────────────────────────────
+  Duke                           vs  Florida
+    → Duke wins  (76.9%)
+
+  Arkansas                       vs  Michigan
+    → Arkansas wins  (58.7%)
+
+
+──────────────────────────────────────────────────────
+  Championship  (2 teams → 1)
+──────────────────────────────────────────────────────
+  Duke                           vs  Arkansas
+    → Duke wins  (92.1%)
+
+======================================================
+  CHAMPION: Duke
+======================================================

@@ -7,7 +7,7 @@ import os
 from scipy.optimize import minimize
 import numpy as np
 
-def temperature_scale(p, T=1):
+def temperature_scale(p, T=2):
     p = np.clip(p, 1e-6, 1 - 1e-6)
     logit = np.log(p / (1 - p))
     scaled_logit = logit / T
@@ -16,10 +16,11 @@ def temperature_scale(p, T=1):
 # ── Config ──────────────────────────────────────────────────────────────────
 STATS_CSV      = "PreTournamentStats/2026.csv"
 MOMENTUM_CSV   = "Momentum/2026.csv"
+SEEDS_CSV     = "TournamentSeeds/2026.csv"
 MODEL_PATH     = "Models/xgb_model.json"
 BRACKET_TXT    = "CurrentYearBracket/bracket.txt"        # one team per line, adjacent pairs = matchups
-OUTPUT_DIR     = "SimulationResults/T=1"
-NUM_SIMS       = 25
+OUTPUT_DIR     = "SimulationResults/WithSeeds/T=2"
+NUM_SIMS       = 10
 
 ROUND_NAMES = [
     "Round of 64",
@@ -31,13 +32,18 @@ ROUND_NAMES = [
 ]
 # ────────────────────────────────────────────────────────────────────────────
 
-
-def load_stats(stats_csv, momentum_csv):
+def load_stats(stats_csv, momentum_csv, seeds_csv):
     stats_df = pd.read_csv(stats_csv, encoding="cp1252")
     stats_df["Team"] = stats_df["Team"].str.strip()
     momentum_df = pd.read_csv(momentum_csv)
     stats_df["Momentum"] = momentum_df["Momentum"].values
-    return stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T.", "Momentum"]].to_dict("index")
+
+    seeds_df = pd.read_csv(seeds_csv)
+    seeds_df["Team"] = seeds_df["Team"].str.strip()
+    seeds_df = seeds_df.set_index("Team")
+    stats_df["Seed"] = stats_df["Team"].map(seeds_df["Seed"])  # NaN for non-tournament teams
+
+    return stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T.", "Momentum", "Seed"]].to_dict("index")
 
 
 def load_bracket(filepath):
@@ -67,6 +73,7 @@ def win_prob(team1, team2, stats, model):
         stats[t1]["AdjDE"] - stats[t2]["AdjDE"],
         stats[t1]["Adj T."] - stats[t2]["Adj T."],
         stats[t1]["Momentum"] - stats[t2]["Momentum"],
+        stats[t1]["Seed"] - stats[t2]["Seed"]
     ]])
     return model.predict_proba(diff)[0][1]
 
@@ -125,7 +132,7 @@ def simulate_tournament(teams, stats, model, out_file):
 def main():
     print("Loading model and stats...")
     model  = joblib.load(MODEL_PATH)
-    stats  = load_stats(STATS_CSV, MOMENTUM_CSV)
+    stats  = load_stats(STATS_CSV, MOMENTUM_CSV, SEEDS_CSV)
     teams  = load_bracket(BRACKET_TXT)
     print(f"  {len(teams)} teams loaded from bracket.")
 

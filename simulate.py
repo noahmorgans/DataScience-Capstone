@@ -7,11 +7,20 @@ import joblib
 
 model = joblib.load("Models/xgb_model.json")
 
-stats_df = pd.read_csv("PreTournamentStats/2023.csv", encoding="cp1252")
-stats_df["Team"] = stats_df["Team"].str.strip()
-momentum_df = pd.read_csv("Momentum/2023.csv")
-stats_df["Momentum"] = momentum_df["Momentum"].values
-stats = stats_df.set_index("Team")[["AdjOE", "AdjDE", "Adj T.", "Momentum"]].to_dict("index")
+combined_df = pd.read_csv("ProcessedData/CombinedData.csv")
+df_2023 = combined_df[combined_df["year"] == 2023]
+
+FEATURES = ["AdjOE", "AdjDE", "Adj T.", "Momentum", "Seed"]
+
+# Extract stats from team1 side, then team2 side, combine and deduplicate
+team1_stats = df_2023[["team1"] + [f"{f}_1" for f in FEATURES]].rename(
+    columns={"team1": "Team", **{f"{f}_1": f for f in FEATURES}}
+)
+team2_stats = df_2023[["team2"] + [f"{f}_2" for f in FEATURES]].rename(
+    columns={"team2": "Team", **{f"{f}_2": f for f in FEATURES}}
+)
+all_team_stats = pd.concat([team1_stats, team2_stats]).drop_duplicates(subset="Team")
+stats = all_team_stats.set_index("Team")[FEATURES].to_dict("index")
 
 prob_cache = {}
 
@@ -72,7 +81,8 @@ def win_prob(team1, team2, stats, model):
             stats[t1]["AdjOE"] - stats[t2]["AdjOE"],
             stats[t1]["AdjDE"] - stats[t2]["AdjDE"],
             stats[t1]["Adj T."] - stats[t2]["Adj T."],
-            stats[t1]["Momentum"] - stats[t2]["Momentum"]
+            stats[t1]["Momentum"] - stats[t2]["Momentum"],
+            stats[t1]["Seed"] - stats[t2]["Seed"]
         ]])
         prob_cache[key] = model.predict_proba(diff)[0][1]
     return prob_cache[key]

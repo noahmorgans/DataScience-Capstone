@@ -14,7 +14,7 @@ stats_df = pd.read_csv(
     encoding="cp1252"
     )
 
-X = stats_df[["AdjOE_diff", "AdjDE_diff", "Adj T._diff", "Momentum_diff"]]
+X = stats_df[["AdjOE_diff", "AdjDE_diff", "Adj T._diff", "Momentum_diff", "Seed_diff"]]
 y = stats_df["team1_win"]
 
 # split into train and test sets
